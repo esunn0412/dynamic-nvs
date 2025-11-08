@@ -39,3 +39,8 @@ Parameter Offload - Persistent parameters statistics: param_count = 685, numel =
 [2025-11-08 08:00:06,065] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
 [2025-11-08 08:00:06,065] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
 [2025-11-08 08:00:08,234] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+======================================
+Job finished: Sat Nov  8 13:09:14 UTC 2025
+Exit code: 0
+======================================

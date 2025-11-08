@@ -184,3 +184,1168 @@ wandb: 🚀 View run at https://wandb.ai/esunn0412-emory-university/finetrainer-
     "max_memory_allocated": 19.8,
     "max_memory_reserved": 23.434
 }
+Training steps:   6%|▋         | 13/200 [21:19<4:46:04, 91.79s/it, grad_norm=0.0439, loss=0.0348, lr=1.91e-5]Training steps:   6%|▋         | 13/200 [21:19<4:46:04, 91.79s/it, grad_norm=0.222, loss=0.198, lr=1.9e-5]   11/08/2025 08:21:39 - INFO - trainer - Memory after epoch 13: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   7%|▋         | 14/200 [22:51<4:44:20, 91.72s/it, grad_norm=0.222, loss=0.198, lr=1.9e-5]Training steps:   7%|▋         | 14/200 [22:51<4:44:20, 91.72s/it, grad_norm=0.0329, loss=0.0603, lr=1.89e-5]11/08/2025 08:23:10 - INFO - trainer - Memory after epoch 14: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   8%|▊         | 15/200 [24:22<4:42:11, 91.52s/it, grad_norm=0.0329, loss=0.0603, lr=1.89e-5]Training steps:   8%|▊         | 15/200 [24:22<4:42:11, 91.52s/it, grad_norm=0.0296, loss=0.0346, lr=1.88e-5]11/08/2025 08:24:41 - INFO - trainer - Memory after epoch 15: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   8%|▊         | 16/200 [25:53<4:40:03, 91.32s/it, grad_norm=0.0296, loss=0.0346, lr=1.88e-5]Training steps:   8%|▊         | 16/200 [25:53<4:40:03, 91.32s/it, grad_norm=0.0709, loss=0.108, lr=1.87e-5] 11/08/2025 08:26:12 - INFO - trainer - Memory after epoch 16: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   8%|▊         | 17/200 [27:24<4:38:20, 91.26s/it, grad_norm=0.0709, loss=0.108, lr=1.87e-5]Training steps:   8%|▊         | 17/200 [27:24<4:38:20, 91.26s/it, grad_norm=0.0611, loss=0.0698, lr=1.86e-5]11/08/2025 08:27:43 - INFO - trainer - Memory after epoch 17: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   9%|▉         | 18/200 [28:55<4:36:47, 91.25s/it, grad_norm=0.0611, loss=0.0698, lr=1.86e-5]Training steps:   9%|▉         | 18/200 [28:55<4:36:47, 91.25s/it, grad_norm=0.0586, loss=0.265, lr=1.85e-5] 11/08/2025 08:29:14 - INFO - trainer - Memory after epoch 18: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:  10%|▉         | 19/200 [30:26<4:34:51, 91.11s/it, grad_norm=0.0586, loss=0.265, lr=1.85e-5]Training steps:  10%|▉         | 19/200 [30:26<4:34:51, 91.11s/it, grad_norm=0.0148, loss=0.0415, lr=1.84e-5]11/08/2025 08:30:45 - INFO - trainer - Memory after epoch 19: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:  10%|█         | 20/200 [31:58<4:34:47, 91.60s/it, grad_norm=0.0148, loss=0.0415, lr=1.84e-5]Training steps:  10%|█         | 20/200 [31:58<4:34:47, 91.60s/it, grad_norm=0.0208, loss=0.0314, lr=1.83e-5]11/08/2025 08:32:18 - INFO - trainer - Memory after epoch 20: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:  10%|█         | 21/200 [33:30<4:33:26, 91.66s/it, grad_norm=0.0208, loss=0.0314, lr=1.83e-5]Training steps:  10%|█         | 21/200 [33:30<4:33:26, 91.66s/it, grad_norm=0.0211, loss=0.0547, lr=1.82e-5]11/08/2025 08:33:50 - INFO - trainer - Memory after epoch 21: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:  11%|█         | 22/200 [35:01<4:31:15, 91.43s/it, grad_norm=0.0211, loss=0.0547, lr=1.82e-5]Training steps:  11%|█         | 22/200 [35:01<4:31:15, 91.43s/it, grad_norm=0.0399, loss=0.0844, lr=1.81e-5]11/08/2025 08:35:21 - INFO - trainer - Memory after epoch 22: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:  12%|█▏        | 23/200 [36:32<4:29:17, 91.29s/it, grad_norm=0.0399, loss=0.0844, lr=1.81e-5]Training steps:  12%|█▏        | 23/200 [36:32<4:29:17, 91.29s/it, grad_norm=0.038, loss=0.0596, lr=1.8e-5]  11/08/2025 08:36:52 - INFO - trainer - Memory after epoch 23: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:  12%|█▏        | 24/200 [38:03<4:27:33, 91.21s/it, grad_norm=0.038, loss=0.0596, lr=1.8e-5]Training steps:  12%|█▏        | 24/200 [38:03<4:27:33, 91.21s/it, grad_norm=0.0737, loss=0.0961, lr=1.79e-5]11/08/2025 08:38:23 - INFO - trainer - Memory after epoch 24: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  12%|█▎        | 25/200 [39:34<4:26:10, 91.26s/it, grad_norm=0.0737, loss=0.0961, lr=1.79e-5]Training steps:  12%|█▎        | 25/200 [39:34<4:26:10, 91.26s/it, grad_norm=0.0166, loss=0.0249, lr=1.78e-5]11/08/2025 08:39:54 - INFO - trainer - Memory after epoch 25: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  13%|█▎        | 26/200 [41:05<4:24:25, 91.18s/it, grad_norm=0.0166, loss=0.0249, lr=1.78e-5]Training steps:  13%|█▎        | 26/200 [41:05<4:24:25, 91.18s/it, grad_norm=0.0247, loss=0.0401, lr=1.77e-5]11/08/2025 08:41:25 - INFO - trainer - Memory after epoch 26: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  14%|█▎        | 27/200 [42:37<4:22:49, 91.15s/it, grad_norm=0.0247, loss=0.0401, lr=1.77e-5]Training steps:  14%|█▎        | 27/200 [42:37<4:22:49, 91.15s/it, grad_norm=0.0534, loss=0.0343, lr=1.76e-5]11/08/2025 08:42:56 - INFO - trainer - Memory after epoch 27: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  14%|█▍        | 28/200 [44:08<4:21:39, 91.28s/it, grad_norm=0.0534, loss=0.0343, lr=1.76e-5]Training steps:  14%|█▍        | 28/200 [44:08<4:21:39, 91.28s/it, grad_norm=0.0194, loss=0.0241, lr=1.75e-5]11/08/2025 08:44:28 - INFO - trainer - Memory after epoch 28: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  14%|█▍        | 29/200 [45:39<4:20:04, 91.25s/it, grad_norm=0.0194, loss=0.0241, lr=1.75e-5]Training steps:  14%|█▍        | 29/200 [45:39<4:20:04, 91.25s/it, grad_norm=0.0182, loss=0.0392, lr=1.74e-5]11/08/2025 08:45:59 - INFO - trainer - Memory after epoch 29: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  15%|█▌        | 30/200 [47:12<4:20:05, 91.80s/it, grad_norm=0.0182, loss=0.0392, lr=1.74e-5]Training steps:  15%|█▌        | 30/200 [47:12<4:20:05, 91.80s/it, grad_norm=0.0469, loss=0.0696, lr=1.73e-5]11/08/2025 08:47:32 - INFO - trainer - Memory after epoch 30: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  16%|█▌        | 31/200 [48:43<4:17:55, 91.57s/it, grad_norm=0.0469, loss=0.0696, lr=1.73e-5]Training steps:  16%|█▌        | 31/200 [48:43<4:17:55, 91.57s/it, grad_norm=0.0287, loss=0.0309, lr=1.72e-5]11/08/2025 08:49:03 - INFO - trainer - Memory after epoch 31: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  16%|█▌        | 32/200 [50:15<4:16:09, 91.48s/it, grad_norm=0.0287, loss=0.0309, lr=1.72e-5]Training steps:  16%|█▌        | 32/200 [50:15<4:16:09, 91.48s/it, grad_norm=0.169, loss=0.26, lr=1.71e-5]   11/08/2025 08:50:34 - INFO - trainer - Memory after epoch 32: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  16%|█▋        | 33/200 [51:46<4:14:16, 91.36s/it, grad_norm=0.169, loss=0.26, lr=1.71e-5]Training steps:  16%|█▋        | 33/200 [51:46<4:14:16, 91.36s/it, grad_norm=0.0329, loss=0.0288, lr=1.7e-5]11/08/2025 08:52:05 - INFO - trainer - Memory after epoch 33: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  17%|█▋        | 34/200 [53:17<4:12:50, 91.39s/it, grad_norm=0.0329, loss=0.0288, lr=1.7e-5]Training steps:  17%|█▋        | 34/200 [53:17<4:12:50, 91.39s/it, grad_norm=0.0298, loss=0.0577, lr=1.69e-5]11/08/2025 08:53:37 - INFO - trainer - Memory after epoch 34: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  18%|█▊        | 35/200 [54:48<4:10:58, 91.26s/it, grad_norm=0.0298, loss=0.0577, lr=1.69e-5]Training steps:  18%|█▊        | 35/200 [54:48<4:10:58, 91.26s/it, grad_norm=0.0204, loss=0.0267, lr=1.68e-5]11/08/2025 08:55:08 - INFO - trainer - Memory after epoch 35: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  18%|█▊        | 36/200 [56:19<4:09:01, 91.11s/it, grad_norm=0.0204, loss=0.0267, lr=1.68e-5]Training steps:  18%|█▊        | 36/200 [56:19<4:09:01, 91.11s/it, grad_norm=0.0174, loss=0.0301, lr=1.67e-5]11/08/2025 08:56:39 - INFO - trainer - Memory after epoch 36: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  18%|█▊        | 37/200 [57:50<4:07:22, 91.06s/it, grad_norm=0.0174, loss=0.0301, lr=1.67e-5]Training steps:  18%|█▊        | 37/200 [57:50<4:07:22, 91.06s/it, grad_norm=0.0231, loss=0.0361, lr=1.66e-5]11/08/2025 08:58:10 - INFO - trainer - Memory after epoch 37: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  19%|█▉        | 38/200 [59:21<4:05:54, 91.08s/it, grad_norm=0.0231, loss=0.0361, lr=1.66e-5]Training steps:  19%|█▉        | 38/200 [59:21<4:05:54, 91.08s/it, grad_norm=0.0677, loss=0.0458, lr=1.65e-5]11/08/2025 08:59:41 - INFO - trainer - Memory after epoch 38: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  20%|█▉        | 39/200 [1:00:52<4:04:35, 91.15s/it, grad_norm=0.0677, loss=0.0458, lr=1.65e-5]Training steps:  20%|█▉        | 39/200 [1:00:52<4:04:35, 91.15s/it, grad_norm=0.0678, loss=0.0789, lr=1.64e-5]11/08/2025 09:01:12 - INFO - trainer - Memory after epoch 39: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.512,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.512
+}
+Training steps:  20%|██        | 40/200 [1:02:25<4:04:36, 91.73s/it, grad_norm=0.0678, loss=0.0789, lr=1.64e-5]Training steps:  20%|██        | 40/200 [1:02:25<4:04:36, 91.73s/it, grad_norm=0.0356, loss=0.0359, lr=1.63e-5]11/08/2025 09:02:45 - INFO - trainer - Memory after epoch 40: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  20%|██        | 41/200 [1:03:57<4:02:39, 91.57s/it, grad_norm=0.0356, loss=0.0359, lr=1.63e-5]Training steps:  20%|██        | 41/200 [1:03:57<4:02:39, 91.57s/it, grad_norm=0.019, loss=0.036, lr=1.62e-5]  11/08/2025 09:04:16 - INFO - trainer - Memory after epoch 41: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  21%|██        | 42/200 [1:05:28<4:01:00, 91.52s/it, grad_norm=0.019, loss=0.036, lr=1.62e-5]Training steps:  21%|██        | 42/200 [1:05:28<4:01:00, 91.52s/it, grad_norm=0.0263, loss=0.0381, lr=1.61e-5]11/08/2025 09:05:48 - INFO - trainer - Memory after epoch 42: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  22%|██▏       | 43/200 [1:06:59<3:59:07, 91.38s/it, grad_norm=0.0263, loss=0.0381, lr=1.61e-5]Training steps:  22%|██▏       | 43/200 [1:06:59<3:59:07, 91.38s/it, grad_norm=0.017, loss=0.0244, lr=1.6e-5]  11/08/2025 09:07:19 - INFO - trainer - Memory after epoch 43: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  22%|██▏       | 44/200 [1:08:30<3:57:20, 91.29s/it, grad_norm=0.017, loss=0.0244, lr=1.6e-5]Training steps:  22%|██▏       | 44/200 [1:08:30<3:57:20, 91.29s/it, grad_norm=0.0442, loss=0.0472, lr=1.59e-5]11/08/2025 09:08:50 - INFO - trainer - Memory after epoch 44: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  22%|██▎       | 45/200 [1:10:01<3:55:22, 91.11s/it, grad_norm=0.0442, loss=0.0472, lr=1.59e-5]Training steps:  22%|██▎       | 45/200 [1:10:01<3:55:22, 91.11s/it, grad_norm=0.0223, loss=0.0428, lr=1.58e-5]11/08/2025 09:10:20 - INFO - trainer - Memory after epoch 45: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  23%|██▎       | 46/200 [1:11:32<3:54:09, 91.23s/it, grad_norm=0.0223, loss=0.0428, lr=1.58e-5]Training steps:  23%|██▎       | 46/200 [1:11:32<3:54:09, 91.23s/it, grad_norm=0.02, loss=0.0478, lr=1.57e-5]  11/08/2025 09:11:52 - INFO - trainer - Memory after epoch 46: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  24%|██▎       | 47/200 [1:13:04<3:52:36, 91.22s/it, grad_norm=0.02, loss=0.0478, lr=1.57e-5]Training steps:  24%|██▎       | 47/200 [1:13:04<3:52:36, 91.22s/it, grad_norm=0.0266, loss=0.0719, lr=1.56e-5]11/08/2025 09:13:23 - INFO - trainer - Memory after epoch 47: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  24%|██▍       | 48/200 [1:14:34<3:50:46, 91.10s/it, grad_norm=0.0266, loss=0.0719, lr=1.56e-5]Training steps:  24%|██▍       | 48/200 [1:14:34<3:50:46, 91.10s/it, grad_norm=0.0124, loss=0.0306, lr=1.55e-5]11/08/2025 09:14:54 - INFO - trainer - Memory after epoch 48: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  24%|██▍       | 49/200 [1:16:05<3:49:10, 91.06s/it, grad_norm=0.0124, loss=0.0306, lr=1.55e-5]Training steps:  24%|██▍       | 49/200 [1:16:05<3:49:10, 91.06s/it, grad_norm=0.0106, loss=0.0361, lr=1.54e-5]11/08/2025 09:16:25 - INFO - trainer - Memory after epoch 49: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  25%|██▌       | 50/200 [1:17:39<3:49:57, 91.99s/it, grad_norm=0.0106, loss=0.0361, lr=1.54e-5]Training steps:  25%|██▌       | 50/200 [1:17:39<3:49:57, 91.99s/it, grad_norm=0.0126, loss=0.0324, lr=1.53e-5]11/08/2025 09:17:59 - INFO - trainer - Memory after epoch 50: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  26%|██▌       | 51/200 [1:19:11<3:47:54, 91.77s/it, grad_norm=0.0126, loss=0.0324, lr=1.53e-5]Training steps:  26%|██▌       | 51/200 [1:19:11<3:47:54, 91.77s/it, grad_norm=0.0139, loss=0.0281, lr=1.52e-5]11/08/2025 09:19:30 - INFO - trainer - Memory after epoch 51: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  26%|██▌       | 52/200 [1:20:42<3:45:56, 91.60s/it, grad_norm=0.0139, loss=0.0281, lr=1.52e-5]Training steps:  26%|██▌       | 52/200 [1:20:42<3:45:56, 91.60s/it, grad_norm=0.0189, loss=0.0261, lr=1.51e-5]11/08/2025 09:21:02 - INFO - trainer - Memory after epoch 52: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  26%|██▋       | 53/200 [1:22:13<3:44:04, 91.46s/it, grad_norm=0.0189, loss=0.0261, lr=1.51e-5]Training steps:  26%|██▋       | 53/200 [1:22:13<3:44:04, 91.46s/it, grad_norm=0.011, loss=0.0387, lr=1.49e-5] 11/08/2025 09:22:33 - INFO - trainer - Memory after epoch 53: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  27%|██▋       | 54/200 [1:23:44<3:42:12, 91.32s/it, grad_norm=0.011, loss=0.0387, lr=1.49e-5]Training steps:  27%|██▋       | 54/200 [1:23:44<3:42:12, 91.32s/it, grad_norm=0.115, loss=0.286, lr=1.48e-5] 11/08/2025 09:24:04 - INFO - trainer - Memory after epoch 54: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  28%|██▊       | 55/200 [1:25:15<3:40:38, 91.30s/it, grad_norm=0.115, loss=0.286, lr=1.48e-5]Training steps:  28%|██▊       | 55/200 [1:25:15<3:40:38, 91.30s/it, grad_norm=0.027, loss=0.0232, lr=1.47e-5]11/08/2025 09:25:35 - INFO - trainer - Memory after epoch 55: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  28%|██▊       | 56/200 [1:26:47<3:39:06, 91.30s/it, grad_norm=0.027, loss=0.0232, lr=1.47e-5]Training steps:  28%|██▊       | 56/200 [1:26:47<3:39:06, 91.30s/it, grad_norm=0.07, loss=0.171, lr=1.46e-5]  11/08/2025 09:27:06 - INFO - trainer - Memory after epoch 56: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  28%|██▊       | 57/200 [1:28:18<3:37:25, 91.23s/it, grad_norm=0.07, loss=0.171, lr=1.46e-5]Training steps:  28%|██▊       | 57/200 [1:28:18<3:37:25, 91.23s/it, grad_norm=0.0182, loss=0.0237, lr=1.45e-5]11/08/2025 09:28:37 - INFO - trainer - Memory after epoch 57: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  29%|██▉       | 58/200 [1:29:49<3:35:39, 91.12s/it, grad_norm=0.0182, loss=0.0237, lr=1.45e-5]Training steps:  29%|██▉       | 58/200 [1:29:49<3:35:39, 91.12s/it, grad_norm=0.0152, loss=0.0331, lr=1.44e-5]11/08/2025 09:30:08 - INFO - trainer - Memory after epoch 58: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  30%|██▉       | 59/200 [1:31:20<3:34:18, 91.20s/it, grad_norm=0.0152, loss=0.0331, lr=1.44e-5]Training steps:  30%|██▉       | 59/200 [1:31:20<3:34:18, 91.20s/it, grad_norm=0.0177, loss=0.0243, lr=1.43e-5]11/08/2025 09:31:40 - INFO - trainer - Memory after epoch 59: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  30%|███       | 60/200 [1:32:54<3:34:47, 92.05s/it, grad_norm=0.0177, loss=0.0243, lr=1.43e-5]Training steps:  30%|███       | 60/200 [1:32:54<3:34:47, 92.05s/it, grad_norm=0.0795, loss=0.0661, lr=1.42e-5]11/08/2025 09:33:14 - INFO - trainer - Memory after epoch 60: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  30%|███       | 61/200 [1:34:26<3:32:54, 91.91s/it, grad_norm=0.0795, loss=0.0661, lr=1.42e-5]Training steps:  30%|███       | 61/200 [1:34:26<3:32:54, 91.91s/it, grad_norm=0.0115, loss=0.0439, lr=1.41e-5]11/08/2025 09:34:45 - INFO - trainer - Memory after epoch 61: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  31%|███       | 62/200 [1:35:57<3:30:45, 91.64s/it, grad_norm=0.0115, loss=0.0439, lr=1.41e-5]Training steps:  31%|███       | 62/200 [1:35:57<3:30:45, 91.64s/it, grad_norm=0.0983, loss=0.196, lr=1.4e-5]  11/08/2025 09:36:16 - INFO - trainer - Memory after epoch 62: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  32%|███▏      | 63/200 [1:37:27<3:28:42, 91.40s/it, grad_norm=0.0983, loss=0.196, lr=1.4e-5]Training steps:  32%|███▏      | 63/200 [1:37:27<3:28:42, 91.40s/it, grad_norm=0.0241, loss=0.0396, lr=1.39e-5]11/08/2025 09:37:47 - INFO - trainer - Memory after epoch 63: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  32%|███▏      | 64/200 [1:38:59<3:27:03, 91.35s/it, grad_norm=0.0241, loss=0.0396, lr=1.39e-5]Training steps:  32%|███▏      | 64/200 [1:38:59<3:27:03, 91.35s/it, grad_norm=0.0213, loss=0.0255, lr=1.38e-5]11/08/2025 09:39:18 - INFO - trainer - Memory after epoch 64: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  32%|███▎      | 65/200 [1:40:30<3:25:16, 91.24s/it, grad_norm=0.0213, loss=0.0255, lr=1.38e-5]Training steps:  32%|███▎      | 65/200 [1:40:30<3:25:16, 91.24s/it, grad_norm=0.0193, loss=0.0272, lr=1.37e-5]11/08/2025 09:40:49 - INFO - trainer - Memory after epoch 65: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  33%|███▎      | 66/200 [1:42:01<3:23:39, 91.19s/it, grad_norm=0.0193, loss=0.0272, lr=1.37e-5]Training steps:  33%|███▎      | 66/200 [1:42:01<3:23:39, 91.19s/it, grad_norm=0.0216, loss=0.0329, lr=1.36e-5]11/08/2025 09:42:20 - INFO - trainer - Memory after epoch 66: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  34%|███▎      | 67/200 [1:43:32<3:22:06, 91.18s/it, grad_norm=0.0216, loss=0.0329, lr=1.36e-5]Training steps:  34%|███▎      | 67/200 [1:43:32<3:22:06, 91.18s/it, grad_norm=0.0168, loss=0.033, lr=1.35e-5] 11/08/2025 09:43:51 - INFO - trainer - Memory after epoch 67: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  34%|███▍      | 68/200 [1:45:03<3:20:32, 91.16s/it, grad_norm=0.0168, loss=0.033, lr=1.35e-5]Training steps:  34%|███▍      | 68/200 [1:45:03<3:20:32, 91.16s/it, grad_norm=0.0394, loss=0.0397, lr=1.34e-5]11/08/2025 09:45:23 - INFO - trainer - Memory after epoch 68: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  34%|███▍      | 69/200 [1:46:34<3:19:01, 91.16s/it, grad_norm=0.0394, loss=0.0397, lr=1.34e-5]Training steps:  34%|███▍      | 69/200 [1:46:34<3:19:01, 91.16s/it, grad_norm=0.0351, loss=0.0272, lr=1.33e-5]11/08/2025 09:46:54 - INFO - trainer - Memory after epoch 69: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  35%|███▌      | 70/200 [1:48:08<3:19:10, 91.93s/it, grad_norm=0.0351, loss=0.0272, lr=1.33e-5]Training steps:  35%|███▌      | 70/200 [1:48:08<3:19:10, 91.93s/it, grad_norm=0.0642, loss=0.0841, lr=1.32e-5]11/08/2025 09:48:27 - INFO - trainer - Memory after epoch 70: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  36%|███▌      | 71/200 [1:49:40<3:17:43, 91.96s/it, grad_norm=0.0642, loss=0.0841, lr=1.32e-5]Training steps:  36%|███▌      | 71/200 [1:49:40<3:17:43, 91.96s/it, grad_norm=0.0158, loss=0.0237, lr=1.31e-5]11/08/2025 09:50:00 - INFO - trainer - Memory after epoch 71: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.609,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.609
+}
+Training steps:  36%|███▌      | 72/200 [1:51:11<3:15:41, 91.73s/it, grad_norm=0.0158, loss=0.0237, lr=1.31e-5]Training steps:  36%|███▌      | 72/200 [1:51:11<3:15:41, 91.73s/it, grad_norm=0.0725, loss=0.278, lr=1.3e-5]  11/08/2025 09:51:31 - INFO - trainer - Memory after epoch 72: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  36%|███▋      | 73/200 [1:52:42<3:13:52, 91.59s/it, grad_norm=0.0725, loss=0.278, lr=1.3e-5]Training steps:  36%|███▋      | 73/200 [1:52:42<3:13:52, 91.59s/it, grad_norm=0.0451, loss=0.104, lr=1.29e-5]11/08/2025 09:53:02 - INFO - trainer - Memory after epoch 73: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  37%|███▋      | 74/200 [1:54:14<3:12:14, 91.54s/it, grad_norm=0.0451, loss=0.104, lr=1.29e-5]Training steps:  37%|███▋      | 74/200 [1:54:14<3:12:14, 91.54s/it, grad_norm=0.0209, loss=0.042, lr=1.28e-5]11/08/2025 09:54:33 - INFO - trainer - Memory after epoch 74: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  38%|███▊      | 75/200 [1:55:45<3:10:16, 91.33s/it, grad_norm=0.0209, loss=0.042, lr=1.28e-5]Training steps:  38%|███▊      | 75/200 [1:55:45<3:10:16, 91.33s/it, grad_norm=0.0232, loss=0.0303, lr=1.27e-5]11/08/2025 09:56:04 - INFO - trainer - Memory after epoch 75: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  38%|███▊      | 76/200 [1:57:16<3:08:43, 91.32s/it, grad_norm=0.0232, loss=0.0303, lr=1.27e-5]Training steps:  38%|███▊      | 76/200 [1:57:16<3:08:43, 91.32s/it, grad_norm=0.0155, loss=0.0218, lr=1.26e-5]11/08/2025 09:57:36 - INFO - trainer - Memory after epoch 76: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  38%|███▊      | 77/200 [1:58:47<3:06:52, 91.16s/it, grad_norm=0.0155, loss=0.0218, lr=1.26e-5]Training steps:  38%|███▊      | 77/200 [1:58:47<3:06:52, 91.16s/it, grad_norm=0.0885, loss=0.096, lr=1.25e-5] 11/08/2025 09:59:06 - INFO - trainer - Memory after epoch 77: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  39%|███▉      | 78/200 [2:00:18<3:05:16, 91.12s/it, grad_norm=0.0885, loss=0.096, lr=1.25e-5]Training steps:  39%|███▉      | 78/200 [2:00:18<3:05:16, 91.12s/it, grad_norm=0.0598, loss=0.106, lr=1.24e-5]11/08/2025 10:00:37 - INFO - trainer - Memory after epoch 78: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  40%|███▉      | 79/200 [2:01:49<3:03:39, 91.07s/it, grad_norm=0.0598, loss=0.106, lr=1.24e-5]Training steps:  40%|███▉      | 79/200 [2:01:49<3:03:39, 91.07s/it, grad_norm=0.0211, loss=0.0278, lr=1.23e-5]11/08/2025 10:02:08 - INFO - trainer - Memory after epoch 79: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  40%|████      | 80/200 [2:03:22<3:03:33, 91.78s/it, grad_norm=0.0211, loss=0.0278, lr=1.23e-5]Training steps:  40%|████      | 80/200 [2:03:22<3:03:33, 91.78s/it, grad_norm=0.0212, loss=0.0229, lr=1.22e-5]11/08/2025 10:03:42 - INFO - trainer - Memory after epoch 80: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  40%|████      | 81/200 [2:04:54<3:02:16, 91.90s/it, grad_norm=0.0212, loss=0.0229, lr=1.22e-5]Training steps:  40%|████      | 81/200 [2:04:54<3:02:16, 91.90s/it, grad_norm=0.0127, loss=0.0213, lr=1.21e-5]11/08/2025 10:05:14 - INFO - trainer - Memory after epoch 81: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  41%|████      | 82/200 [2:06:25<3:00:18, 91.68s/it, grad_norm=0.0127, loss=0.0213, lr=1.21e-5]Training steps:  41%|████      | 82/200 [2:06:25<3:00:18, 91.68s/it, grad_norm=0.0154, loss=0.024, lr=1.2e-5]  11/08/2025 10:06:45 - INFO - trainer - Memory after epoch 82: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  42%|████▏     | 83/200 [2:07:56<2:58:16, 91.42s/it, grad_norm=0.0154, loss=0.024, lr=1.2e-5]Training steps:  42%|████▏     | 83/200 [2:07:56<2:58:16, 91.42s/it, grad_norm=0.0191, loss=0.0331, lr=1.19e-5]11/08/2025 10:08:16 - INFO - trainer - Memory after epoch 83: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  42%|████▏     | 84/200 [2:09:27<2:56:34, 91.33s/it, grad_norm=0.0191, loss=0.0331, lr=1.19e-5]Training steps:  42%|████▏     | 84/200 [2:09:27<2:56:34, 91.33s/it, grad_norm=0.0228, loss=0.027, lr=1.18e-5] 11/08/2025 10:09:47 - INFO - trainer - Memory after epoch 84: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  42%|████▎     | 85/200 [2:10:58<2:54:52, 91.24s/it, grad_norm=0.0228, loss=0.027, lr=1.18e-5]Training steps:  42%|████▎     | 85/200 [2:10:58<2:54:52, 91.24s/it, grad_norm=0.0136, loss=0.0299, lr=1.17e-5]11/08/2025 10:11:18 - INFO - trainer - Memory after epoch 85: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  43%|████▎     | 86/200 [2:12:30<2:53:18, 91.21s/it, grad_norm=0.0136, loss=0.0299, lr=1.17e-5]Training steps:  43%|████▎     | 86/200 [2:12:30<2:53:18, 91.21s/it, grad_norm=0.0167, loss=0.0448, lr=1.16e-5]11/08/2025 10:12:49 - INFO - trainer - Memory after epoch 86: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  44%|████▎     | 87/200 [2:14:01<2:51:42, 91.17s/it, grad_norm=0.0167, loss=0.0448, lr=1.16e-5]Training steps:  44%|████▎     | 87/200 [2:14:01<2:51:42, 91.17s/it, grad_norm=0.0142, loss=0.022, lr=1.15e-5] 11/08/2025 10:14:20 - INFO - trainer - Memory after epoch 87: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  44%|████▍     | 88/200 [2:15:32<2:50:06, 91.13s/it, grad_norm=0.0142, loss=0.022, lr=1.15e-5]Training steps:  44%|████▍     | 88/200 [2:15:32<2:50:06, 91.13s/it, grad_norm=0.0107, loss=0.0302, lr=1.14e-5]11/08/2025 10:15:51 - INFO - trainer - Memory after epoch 88: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  44%|████▍     | 89/200 [2:17:03<2:48:33, 91.12s/it, grad_norm=0.0107, loss=0.0302, lr=1.14e-5]Training steps:  44%|████▍     | 89/200 [2:17:03<2:48:33, 91.12s/it, grad_norm=0.0196, loss=0.042, lr=1.13e-5] 11/08/2025 10:17:22 - INFO - trainer - Memory after epoch 89: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  45%|████▌     | 90/200 [2:18:37<2:48:32, 91.93s/it, grad_norm=0.0196, loss=0.042, lr=1.13e-5]Training steps:  45%|████▌     | 90/200 [2:18:37<2:48:32, 91.93s/it, grad_norm=0.0138, loss=0.02, lr=1.12e-5] 11/08/2025 10:18:56 - INFO - trainer - Memory after epoch 90: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  46%|████▌     | 91/200 [2:20:09<2:47:19, 92.11s/it, grad_norm=0.0138, loss=0.02, lr=1.12e-5]Training steps:  46%|████▌     | 91/200 [2:20:09<2:47:19, 92.11s/it, grad_norm=0.0147, loss=0.0244, lr=1.11e-5]11/08/2025 10:20:29 - INFO - trainer - Memory after epoch 91: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  46%|████▌     | 92/200 [2:21:40<2:45:07, 91.73s/it, grad_norm=0.0147, loss=0.0244, lr=1.11e-5]Training steps:  46%|████▌     | 92/200 [2:21:40<2:45:07, 91.73s/it, grad_norm=0.0903, loss=0.0579, lr=1.1e-5] 11/08/2025 10:22:00 - INFO - trainer - Memory after epoch 92: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  46%|████▋     | 93/200 [2:23:11<2:43:08, 91.48s/it, grad_norm=0.0903, loss=0.0579, lr=1.1e-5]Training steps:  46%|████▋     | 93/200 [2:23:11<2:43:08, 91.48s/it, grad_norm=0.0142, loss=0.0303, lr=1.09e-5]11/08/2025 10:23:30 - INFO - trainer - Memory after epoch 93: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  47%|████▋     | 94/200 [2:24:42<2:41:15, 91.28s/it, grad_norm=0.0142, loss=0.0303, lr=1.09e-5]Training steps:  47%|████▋     | 94/200 [2:24:42<2:41:15, 91.28s/it, grad_norm=0.00993, loss=0.0183, lr=1.08e-5]11/08/2025 10:25:01 - INFO - trainer - Memory after epoch 94: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  48%|████▊     | 95/200 [2:26:13<2:39:34, 91.18s/it, grad_norm=0.00993, loss=0.0183, lr=1.08e-5]Training steps:  48%|████▊     | 95/200 [2:26:13<2:39:34, 91.18s/it, grad_norm=0.00915, loss=0.0311, lr=1.07e-5]11/08/2025 10:26:32 - INFO - trainer - Memory after epoch 95: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  48%|████▊     | 96/200 [2:27:44<2:38:07, 91.23s/it, grad_norm=0.00915, loss=0.0311, lr=1.07e-5]Training steps:  48%|████▊     | 96/200 [2:27:44<2:38:07, 91.23s/it, grad_norm=0.0115, loss=0.0297, lr=1.06e-5] 11/08/2025 10:28:04 - INFO - trainer - Memory after epoch 96: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  48%|████▊     | 97/200 [2:29:15<2:36:37, 91.24s/it, grad_norm=0.0115, loss=0.0297, lr=1.06e-5]Training steps:  48%|████▊     | 97/200 [2:29:15<2:36:37, 91.24s/it, grad_norm=0.0204, loss=0.0253, lr=1.05e-5]11/08/2025 10:29:35 - INFO - trainer - Memory after epoch 97: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  49%|████▉     | 98/200 [2:30:47<2:35:07, 91.25s/it, grad_norm=0.0204, loss=0.0253, lr=1.05e-5]Training steps:  49%|████▉     | 98/200 [2:30:47<2:35:07, 91.25s/it, grad_norm=0.0154, loss=0.0315, lr=1.04e-5]11/08/2025 10:31:06 - INFO - trainer - Memory after epoch 98: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  50%|████▉     | 99/200 [2:32:17<2:33:27, 91.16s/it, grad_norm=0.0154, loss=0.0315, lr=1.04e-5]Training steps:  50%|████▉     | 99/200 [2:32:17<2:33:27, 91.16s/it, grad_norm=0.0156, loss=0.0229, lr=1.03e-5]11/08/2025 10:32:37 - INFO - trainer - Memory after epoch 99: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  50%|█████     | 100/200 [2:33:51<2:32:54, 91.75s/it, grad_norm=0.0156, loss=0.0229, lr=1.03e-5]Training steps:  50%|█████     | 100/200 [2:33:51<2:32:54, 91.75s/it, grad_norm=0.0337, loss=0.0272, lr=1.02e-5]11/08/2025 10:34:10 - INFO - trainer - Memory after epoch 100: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  50%|█████     | 101/200 [2:35:22<2:30:58, 91.50s/it, grad_norm=0.0337, loss=0.0272, lr=1.02e-5]Training steps:  50%|█████     | 101/200 [2:35:22<2:30:58, 91.50s/it, grad_norm=0.0279, loss=0.0921, lr=1.01e-5]11/08/2025 10:35:41 - INFO - trainer - Memory after epoch 101: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  51%|█████     | 102/200 [2:36:54<2:29:50, 91.74s/it, grad_norm=0.0279, loss=0.0921, lr=1.01e-5]Training steps:  51%|█████     | 102/200 [2:36:54<2:29:50, 91.74s/it, grad_norm=0.019, loss=0.0515, lr=1e-5]    11/08/2025 10:37:13 - INFO - trainer - Memory after epoch 102: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  52%|█████▏    | 103/200 [2:38:25<2:28:11, 91.66s/it, grad_norm=0.019, loss=0.0515, lr=1e-5]Training steps:  52%|█████▏    | 103/200 [2:38:25<2:28:11, 91.66s/it, grad_norm=0.0132, loss=0.0568, lr=9.9e-6]11/08/2025 10:38:45 - INFO - trainer - Memory after epoch 103: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  52%|█████▏    | 104/200 [2:39:56<2:26:22, 91.49s/it, grad_norm=0.0132, loss=0.0568, lr=9.9e-6]Training steps:  52%|█████▏    | 104/200 [2:39:56<2:26:22, 91.49s/it, grad_norm=0.058, loss=0.134, lr=9.8e-6]  11/08/2025 10:40:16 - INFO - trainer - Memory after epoch 104: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  52%|█████▎    | 105/200 [2:41:28<2:24:46, 91.44s/it, grad_norm=0.058, loss=0.134, lr=9.8e-6]Training steps:  52%|█████▎    | 105/200 [2:41:28<2:24:46, 91.44s/it, grad_norm=0.0122, loss=0.0246, lr=9.7e-6]11/08/2025 10:41:47 - INFO - trainer - Memory after epoch 105: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.629,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.629
+}
+Training steps:  53%|█████▎    | 106/200 [2:42:59<2:23:10, 91.39s/it, grad_norm=0.0122, loss=0.0246, lr=9.7e-6]Training steps:  53%|█████▎    | 106/200 [2:42:59<2:23:10, 91.39s/it, grad_norm=0.0171, loss=0.0741, lr=9.6e-6]11/08/2025 10:43:19 - INFO - trainer - Memory after epoch 106: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  54%|█████▎    | 107/200 [2:44:30<2:21:21, 91.20s/it, grad_norm=0.0171, loss=0.0741, lr=9.6e-6]Training steps:  54%|█████▎    | 107/200 [2:44:30<2:21:21, 91.20s/it, grad_norm=0.0107, loss=0.0416, lr=9.49e-6]11/08/2025 10:44:49 - INFO - trainer - Memory after epoch 107: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  54%|█████▍    | 108/200 [2:46:01<2:19:47, 91.17s/it, grad_norm=0.0107, loss=0.0416, lr=9.49e-6]Training steps:  54%|█████▍    | 108/200 [2:46:01<2:19:47, 91.17s/it, grad_norm=0.0217, loss=0.0216, lr=9.39e-6]11/08/2025 10:46:20 - INFO - trainer - Memory after epoch 108: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  55%|█████▍    | 109/200 [2:47:32<2:18:16, 91.17s/it, grad_norm=0.0217, loss=0.0216, lr=9.39e-6]Training steps:  55%|█████▍    | 109/200 [2:47:32<2:18:16, 91.17s/it, grad_norm=0.015, loss=0.0558, lr=9.29e-6] 11/08/2025 10:47:52 - INFO - trainer - Memory after epoch 109: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  55%|█████▌    | 110/200 [2:49:05<2:17:38, 91.76s/it, grad_norm=0.015, loss=0.0558, lr=9.29e-6]Training steps:  55%|█████▌    | 110/200 [2:49:05<2:17:38, 91.76s/it, grad_norm=0.0226, loss=0.0309, lr=9.19e-6]11/08/2025 10:49:25 - INFO - trainer - Memory after epoch 110: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  56%|█████▌    | 111/200 [2:50:37<2:15:59, 91.68s/it, grad_norm=0.0226, loss=0.0309, lr=9.19e-6]Training steps:  56%|█████▌    | 111/200 [2:50:37<2:15:59, 91.68s/it, grad_norm=0.0122, loss=0.0398, lr=9.09e-6]11/08/2025 10:50:56 - INFO - trainer - Memory after epoch 111: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  56%|█████▌    | 112/200 [2:52:09<2:14:44, 91.87s/it, grad_norm=0.0122, loss=0.0398, lr=9.09e-6]Training steps:  56%|█████▌    | 112/200 [2:52:09<2:14:44, 91.87s/it, grad_norm=0.042, loss=0.0642, lr=8.99e-6] 11/08/2025 10:52:29 - INFO - trainer - Memory after epoch 112: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  56%|█████▋    | 113/200 [2:53:40<2:12:55, 91.68s/it, grad_norm=0.042, loss=0.0642, lr=8.99e-6]Training steps:  56%|█████▋    | 113/200 [2:53:40<2:12:55, 91.68s/it, grad_norm=0.0184, loss=0.0304, lr=8.89e-6]11/08/2025 10:54:00 - INFO - trainer - Memory after epoch 113: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  57%|█████▋    | 114/200 [2:55:11<2:11:06, 91.47s/it, grad_norm=0.0184, loss=0.0304, lr=8.89e-6]Training steps:  57%|█████▋    | 114/200 [2:55:11<2:11:06, 91.47s/it, grad_norm=0.0404, loss=0.051, lr=8.79e-6] 11/08/2025 10:55:31 - INFO - trainer - Memory after epoch 114: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  57%|█████▊    | 115/200 [2:56:43<2:09:42, 91.56s/it, grad_norm=0.0404, loss=0.051, lr=8.79e-6]Training steps:  57%|█████▊    | 115/200 [2:56:43<2:09:42, 91.56s/it, grad_norm=0.0174, loss=0.027, lr=8.69e-6]11/08/2025 10:57:02 - INFO - trainer - Memory after epoch 115: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  58%|█████▊    | 116/200 [2:58:14<2:07:58, 91.41s/it, grad_norm=0.0174, loss=0.027, lr=8.69e-6]Training steps:  58%|█████▊    | 116/200 [2:58:14<2:07:58, 91.41s/it, grad_norm=0.0102, loss=0.0275, lr=8.59e-6]11/08/2025 10:58:34 - INFO - trainer - Memory after epoch 116: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  58%|█████▊    | 117/200 [2:59:45<2:06:19, 91.32s/it, grad_norm=0.0102, loss=0.0275, lr=8.59e-6]Training steps:  58%|█████▊    | 117/200 [2:59:45<2:06:19, 91.32s/it, grad_norm=0.00944, loss=0.0275, lr=8.48e-6]11/08/2025 11:00:05 - INFO - trainer - Memory after epoch 117: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  59%|█████▉    | 118/200 [3:01:16<2:04:37, 91.19s/it, grad_norm=0.00944, loss=0.0275, lr=8.48e-6]Training steps:  59%|█████▉    | 118/200 [3:01:16<2:04:37, 91.19s/it, grad_norm=0.0108, loss=0.0165, lr=8.38e-6] 11/08/2025 11:01:36 - INFO - trainer - Memory after epoch 118: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  60%|█████▉    | 119/200 [3:02:47<2:03:07, 91.20s/it, grad_norm=0.0108, loss=0.0165, lr=8.38e-6]Training steps:  60%|█████▉    | 119/200 [3:02:47<2:03:07, 91.20s/it, grad_norm=0.0106, loss=0.029, lr=8.28e-6] 11/08/2025 11:03:07 - INFO - trainer - Memory after epoch 119: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  60%|██████    | 120/200 [3:04:21<2:02:34, 91.93s/it, grad_norm=0.0106, loss=0.029, lr=8.28e-6]Training steps:  60%|██████    | 120/200 [3:04:21<2:02:34, 91.93s/it, grad_norm=0.0287, loss=0.0743, lr=8.18e-6]11/08/2025 11:04:40 - INFO - trainer - Memory after epoch 120: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  60%|██████    | 121/200 [3:05:52<2:00:43, 91.70s/it, grad_norm=0.0287, loss=0.0743, lr=8.18e-6]Training steps:  60%|██████    | 121/200 [3:05:52<2:00:43, 91.70s/it, grad_norm=0.0161, loss=0.0221, lr=8.08e-6]11/08/2025 11:06:12 - INFO - trainer - Memory after epoch 121: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  61%|██████    | 122/200 [3:07:24<1:59:30, 91.93s/it, grad_norm=0.0161, loss=0.0221, lr=8.08e-6]Training steps:  61%|██████    | 122/200 [3:07:24<1:59:30, 91.93s/it, grad_norm=0.0405, loss=0.0342, lr=7.98e-6]11/08/2025 11:07:44 - INFO - trainer - Memory after epoch 122: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  62%|██████▏   | 123/200 [3:08:56<1:57:47, 91.78s/it, grad_norm=0.0405, loss=0.0342, lr=7.98e-6]Training steps:  62%|██████▏   | 123/200 [3:08:56<1:57:47, 91.78s/it, grad_norm=0.0119, loss=0.028, lr=7.88e-6] 11/08/2025 11:09:15 - INFO - trainer - Memory after epoch 123: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  62%|██████▏   | 124/200 [3:10:27<1:55:58, 91.56s/it, grad_norm=0.0119, loss=0.028, lr=7.88e-6]Training steps:  62%|██████▏   | 124/200 [3:10:27<1:55:58, 91.56s/it, grad_norm=0.0449, loss=0.121, lr=7.78e-6]11/08/2025 11:10:47 - INFO - trainer - Memory after epoch 124: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  62%|██████▎   | 125/200 [3:11:58<1:54:15, 91.40s/it, grad_norm=0.0449, loss=0.121, lr=7.78e-6]Training steps:  62%|██████▎   | 125/200 [3:11:58<1:54:15, 91.40s/it, grad_norm=0.0421, loss=0.0847, lr=7.68e-6]11/08/2025 11:12:18 - INFO - trainer - Memory after epoch 125: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  63%|██████▎   | 126/200 [3:13:29<1:52:41, 91.37s/it, grad_norm=0.0421, loss=0.0847, lr=7.68e-6]Training steps:  63%|██████▎   | 126/200 [3:13:29<1:52:41, 91.37s/it, grad_norm=0.0195, loss=0.0285, lr=7.58e-6]11/08/2025 11:13:49 - INFO - trainer - Memory after epoch 126: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  64%|██████▎   | 127/200 [3:15:00<1:51:00, 91.24s/it, grad_norm=0.0195, loss=0.0285, lr=7.58e-6]Training steps:  64%|██████▎   | 127/200 [3:15:00<1:51:00, 91.24s/it, grad_norm=0.0272, loss=0.0434, lr=7.47e-6]11/08/2025 11:15:20 - INFO - trainer - Memory after epoch 127: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  64%|██████▍   | 128/200 [3:16:31<1:49:18, 91.09s/it, grad_norm=0.0272, loss=0.0434, lr=7.47e-6]Training steps:  64%|██████▍   | 128/200 [3:16:31<1:49:18, 91.09s/it, grad_norm=0.00906, loss=0.0293, lr=7.37e-6]11/08/2025 11:16:51 - INFO - trainer - Memory after epoch 128: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  64%|██████▍   | 129/200 [3:18:02<1:47:51, 91.14s/it, grad_norm=0.00906, loss=0.0293, lr=7.37e-6]Training steps:  64%|██████▍   | 129/200 [3:18:02<1:47:51, 91.14s/it, grad_norm=0.0147, loss=0.0523, lr=7.27e-6] 11/08/2025 11:18:22 - INFO - trainer - Memory after epoch 129: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  65%|██████▌   | 130/200 [3:19:36<1:47:13, 91.90s/it, grad_norm=0.0147, loss=0.0523, lr=7.27e-6]Training steps:  65%|██████▌   | 130/200 [3:19:36<1:47:13, 91.90s/it, grad_norm=0.0321, loss=0.089, lr=7.17e-6] 11/08/2025 11:19:55 - INFO - trainer - Memory after epoch 130: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  66%|██████▌   | 131/200 [3:21:08<1:45:49, 92.03s/it, grad_norm=0.0321, loss=0.089, lr=7.17e-6]Training steps:  66%|██████▌   | 131/200 [3:21:08<1:45:49, 92.03s/it, grad_norm=0.0228, loss=0.0722, lr=7.07e-6]11/08/2025 11:21:28 - INFO - trainer - Memory after epoch 131: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  66%|██████▌   | 132/200 [3:22:40<1:44:09, 91.91s/it, grad_norm=0.0228, loss=0.0722, lr=7.07e-6]Training steps:  66%|██████▌   | 132/200 [3:22:40<1:44:09, 91.91s/it, grad_norm=0.0344, loss=0.0641, lr=6.97e-6]11/08/2025 11:22:59 - INFO - trainer - Memory after epoch 132: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  66%|██████▋   | 133/200 [3:24:12<1:42:44, 92.01s/it, grad_norm=0.0344, loss=0.0641, lr=6.97e-6]Training steps:  66%|██████▋   | 133/200 [3:24:12<1:42:44, 92.01s/it, grad_norm=0.0139, loss=0.0283, lr=6.87e-6]11/08/2025 11:24:32 - INFO - trainer - Memory after epoch 133: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  67%|██████▋   | 134/200 [3:25:43<1:40:52, 91.70s/it, grad_norm=0.0139, loss=0.0283, lr=6.87e-6]Training steps:  67%|██████▋   | 134/200 [3:25:43<1:40:52, 91.70s/it, grad_norm=0, loss=0, lr=6.77e-6]          11/08/2025 11:26:03 - INFO - trainer - Memory after epoch 134: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  68%|██████▊   | 135/200 [3:27:14<1:39:07, 91.50s/it, grad_norm=0, loss=0, lr=6.77e-6]Training steps:  68%|██████▊   | 135/200 [3:27:14<1:39:07, 91.50s/it, grad_norm=0.0245, loss=0.0444, lr=6.67e-6]11/08/2025 11:27:34 - INFO - trainer - Memory after epoch 135: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  68%|██████▊   | 136/200 [3:28:45<1:37:30, 91.41s/it, grad_norm=0.0245, loss=0.0444, lr=6.67e-6]Training steps:  68%|██████▊   | 136/200 [3:28:45<1:37:30, 91.41s/it, grad_norm=0.0502, loss=0.109, lr=6.57e-6] 11/08/2025 11:29:05 - INFO - trainer - Memory after epoch 136: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  68%|██████▊   | 137/200 [3:30:17<1:35:56, 91.37s/it, grad_norm=0.0502, loss=0.109, lr=6.57e-6]Training steps:  68%|██████▊   | 137/200 [3:30:17<1:35:56, 91.37s/it, grad_norm=0.00954, loss=0.0196, lr=6.46e-6]11/08/2025 11:30:36 - INFO - trainer - Memory after epoch 137: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  69%|██████▉   | 138/200 [3:31:48<1:34:19, 91.29s/it, grad_norm=0.00954, loss=0.0196, lr=6.46e-6]Training steps:  69%|██████▉   | 138/200 [3:31:48<1:34:19, 91.29s/it, grad_norm=0.0205, loss=0.0252, lr=6.36e-6] 11/08/2025 11:32:07 - INFO - trainer - Memory after epoch 138: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  70%|██████▉   | 139/200 [3:33:19<1:32:44, 91.22s/it, grad_norm=0.0205, loss=0.0252, lr=6.36e-6]Training steps:  70%|██████▉   | 139/200 [3:33:19<1:32:44, 91.22s/it, grad_norm=0.00911, loss=0.0261, lr=6.26e-6]11/08/2025 11:33:38 - INFO - trainer - Memory after epoch 139: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  70%|███████   | 140/200 [3:34:53<1:32:11, 92.20s/it, grad_norm=0.00911, loss=0.0261, lr=6.26e-6]Training steps:  70%|███████   | 140/200 [3:34:53<1:32:11, 92.20s/it, grad_norm=0.0125, loss=0.0262, lr=6.16e-6] 11/08/2025 11:35:13 - INFO - trainer - Memory after epoch 140: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  70%|███████   | 141/200 [3:36:26<1:30:42, 92.25s/it, grad_norm=0.0125, loss=0.0262, lr=6.16e-6]Training steps:  70%|███████   | 141/200 [3:36:26<1:30:42, 92.25s/it, grad_norm=0.00855, loss=0.0177, lr=6.06e-6]11/08/2025 11:36:45 - INFO - trainer - Memory after epoch 141: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  71%|███████   | 142/200 [3:37:56<1:28:46, 91.83s/it, grad_norm=0.00855, loss=0.0177, lr=6.06e-6]Training steps:  71%|███████   | 142/200 [3:37:56<1:28:46, 91.83s/it, grad_norm=0.00765, loss=0.0201, lr=5.96e-6]11/08/2025 11:38:16 - INFO - trainer - Memory after epoch 142: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  72%|███████▏  | 143/200 [3:39:29<1:27:21, 91.95s/it, grad_norm=0.00765, loss=0.0201, lr=5.96e-6]Training steps:  72%|███████▏  | 143/200 [3:39:29<1:27:21, 91.95s/it, grad_norm=0.0172, loss=0.0275, lr=5.86e-6] 11/08/2025 11:39:48 - INFO - trainer - Memory after epoch 143: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  72%|███████▏  | 144/200 [3:41:00<1:25:41, 91.82s/it, grad_norm=0.0172, loss=0.0275, lr=5.86e-6]Training steps:  72%|███████▏  | 144/200 [3:41:00<1:25:41, 91.82s/it, grad_norm=0.0438, loss=0.175, lr=5.76e-6] 11/08/2025 11:41:20 - INFO - trainer - Memory after epoch 144: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  72%|███████▎  | 145/200 [3:42:31<1:23:56, 91.57s/it, grad_norm=0.0438, loss=0.175, lr=5.76e-6]Training steps:  72%|███████▎  | 145/200 [3:42:31<1:23:56, 91.57s/it, grad_norm=0.0122, loss=0.0289, lr=5.66e-6]11/08/2025 11:42:51 - INFO - trainer - Memory after epoch 145: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  73%|███████▎  | 146/200 [3:44:02<1:22:10, 91.30s/it, grad_norm=0.0122, loss=0.0289, lr=5.66e-6]Training steps:  73%|███████▎  | 146/200 [3:44:02<1:22:10, 91.30s/it, grad_norm=0.0138, loss=0.0289, lr=5.56e-6]11/08/2025 11:44:21 - INFO - trainer - Memory after epoch 146: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  74%|███████▎  | 147/200 [3:45:33<1:20:35, 91.24s/it, grad_norm=0.0138, loss=0.0289, lr=5.56e-6]Training steps:  74%|███████▎  | 147/200 [3:45:33<1:20:35, 91.24s/it, grad_norm=0.0102, loss=0.0245, lr=5.45e-6]11/08/2025 11:45:53 - INFO - trainer - Memory after epoch 147: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  74%|███████▍  | 148/200 [3:47:04<1:19:02, 91.21s/it, grad_norm=0.0102, loss=0.0245, lr=5.45e-6]Training steps:  74%|███████▍  | 148/200 [3:47:04<1:19:02, 91.21s/it, grad_norm=0.017, loss=0.0395, lr=5.35e-6] 11/08/2025 11:47:24 - INFO - trainer - Memory after epoch 148: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  74%|███████▍  | 149/200 [3:48:36<1:17:35, 91.29s/it, grad_norm=0.017, loss=0.0395, lr=5.35e-6]Training steps:  74%|███████▍  | 149/200 [3:48:36<1:17:35, 91.29s/it, grad_norm=0.0219, loss=0.0211, lr=5.25e-6]11/08/2025 11:48:55 - INFO - trainer - Memory after epoch 149: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  75%|███████▌  | 150/200 [3:50:09<1:16:40, 92.01s/it, grad_norm=0.0219, loss=0.0211, lr=5.25e-6]Training steps:  75%|███████▌  | 150/200 [3:50:09<1:16:40, 92.01s/it, grad_norm=0.0112, loss=0.0309, lr=5.15e-6]11/08/2025 11:50:29 - INFO - trainer - Memory after epoch 150: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  76%|███████▌  | 151/200 [3:51:42<1:15:23, 92.32s/it, grad_norm=0.0112, loss=0.0309, lr=5.15e-6]Training steps:  76%|███████▌  | 151/200 [3:51:42<1:15:23, 92.32s/it, grad_norm=0.0194, loss=0.0275, lr=5.05e-6]11/08/2025 11:52:02 - INFO - trainer - Memory after epoch 151: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  76%|███████▌  | 152/200 [3:53:13<1:13:34, 91.97s/it, grad_norm=0.0194, loss=0.0275, lr=5.05e-6]Training steps:  76%|███████▌  | 152/200 [3:53:13<1:13:34, 91.97s/it, grad_norm=0.00816, loss=0.0248, lr=4.95e-6]11/08/2025 11:53:33 - INFO - trainer - Memory after epoch 152: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  76%|███████▋  | 153/200 [3:54:45<1:11:53, 91.77s/it, grad_norm=0.00816, loss=0.0248, lr=4.95e-6]Training steps:  76%|███████▋  | 153/200 [3:54:45<1:11:53, 91.77s/it, grad_norm=0.0362, loss=0.0507, lr=4.85e-6] 11/08/2025 11:55:04 - INFO - trainer - Memory after epoch 153: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.707,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.707
+}
+Training steps:  77%|███████▋  | 154/200 [3:56:17<1:10:30, 91.96s/it, grad_norm=0.0362, loss=0.0507, lr=4.85e-6]Training steps:  77%|███████▋  | 154/200 [3:56:17<1:10:30, 91.96s/it, grad_norm=0.013, loss=0.0504, lr=4.75e-6] 11/08/2025 11:56:37 - INFO - trainer - Memory after epoch 154: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  78%|███████▊  | 155/200 [3:57:48<1:08:49, 91.76s/it, grad_norm=0.013, loss=0.0504, lr=4.75e-6]Training steps:  78%|███████▊  | 155/200 [3:57:48<1:08:49, 91.76s/it, grad_norm=0.0158, loss=0.0162, lr=4.65e-6]11/08/2025 11:58:08 - INFO - trainer - Memory after epoch 155: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  78%|███████▊  | 156/200 [3:59:20<1:07:08, 91.57s/it, grad_norm=0.0158, loss=0.0162, lr=4.65e-6]Training steps:  78%|███████▊  | 156/200 [3:59:20<1:07:08, 91.57s/it, grad_norm=0.00799, loss=0.0269, lr=4.55e-6]11/08/2025 11:59:39 - INFO - trainer - Memory after epoch 156: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  78%|███████▊  | 157/200 [4:00:50<1:05:29, 91.38s/it, grad_norm=0.00799, loss=0.0269, lr=4.55e-6]Training steps:  78%|███████▊  | 157/200 [4:00:51<1:05:29, 91.38s/it, grad_norm=0.0106, loss=0.0255, lr=4.44e-6] 11/08/2025 12:01:10 - INFO - trainer - Memory after epoch 157: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  79%|███████▉  | 158/200 [4:02:21<1:03:50, 91.20s/it, grad_norm=0.0106, loss=0.0255, lr=4.44e-6]Training steps:  79%|███████▉  | 158/200 [4:02:21<1:03:50, 91.20s/it, grad_norm=0.0296, loss=0.0191, lr=4.34e-6]11/08/2025 12:02:41 - INFO - trainer - Memory after epoch 158: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  80%|███████▉  | 159/200 [4:03:52<1:02:17, 91.15s/it, grad_norm=0.0296, loss=0.0191, lr=4.34e-6]Training steps:  80%|███████▉  | 159/200 [4:03:52<1:02:17, 91.15s/it, grad_norm=0.00726, loss=0.0204, lr=4.24e-6]11/08/2025 12:04:12 - INFO - trainer - Memory after epoch 159: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  80%|████████  | 160/200 [4:05:26<1:01:12, 91.81s/it, grad_norm=0.00726, loss=0.0204, lr=4.24e-6]Training steps:  80%|████████  | 160/200 [4:05:26<1:01:12, 91.81s/it, grad_norm=0.0227, loss=0.0362, lr=4.14e-6] 11/08/2025 12:05:45 - INFO - trainer - Memory after epoch 160: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  80%|████████  | 161/200 [4:06:59<59:53, 92.14s/it, grad_norm=0.0227, loss=0.0362, lr=4.14e-6]  Training steps:  80%|████████  | 161/200 [4:06:59<59:53, 92.14s/it, grad_norm=0.0235, loss=0.0367, lr=4.04e-6]11/08/2025 12:07:18 - INFO - trainer - Memory after epoch 161: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  81%|████████  | 162/200 [4:08:30<58:12, 91.91s/it, grad_norm=0.0235, loss=0.0367, lr=4.04e-6]Training steps:  81%|████████  | 162/200 [4:08:30<58:12, 91.91s/it, grad_norm=0.0159, loss=0.0167, lr=3.94e-6]11/08/2025 12:08:50 - INFO - trainer - Memory after epoch 162: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  82%|████████▏ | 163/200 [4:10:01<56:33, 91.71s/it, grad_norm=0.0159, loss=0.0167, lr=3.94e-6]Training steps:  82%|████████▏ | 163/200 [4:10:01<56:33, 91.71s/it, grad_norm=0.02, loss=0.0602, lr=3.84e-6]  11/08/2025 12:10:21 - INFO - trainer - Memory after epoch 163: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  82%|████████▏ | 164/200 [4:11:34<55:10, 91.95s/it, grad_norm=0.02, loss=0.0602, lr=3.84e-6]Training steps:  82%|████████▏ | 164/200 [4:11:34<55:10, 91.95s/it, grad_norm=0.0176, loss=0.0275, lr=3.74e-6]11/08/2025 12:11:53 - INFO - trainer - Memory after epoch 164: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  82%|████████▎ | 165/200 [4:13:05<53:29, 91.70s/it, grad_norm=0.0176, loss=0.0275, lr=3.74e-6]Training steps:  82%|████████▎ | 165/200 [4:13:05<53:29, 91.70s/it, grad_norm=0.00774, loss=0.0237, lr=3.64e-6]11/08/2025 12:13:24 - INFO - trainer - Memory after epoch 165: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  83%|████████▎ | 166/200 [4:14:36<51:49, 91.47s/it, grad_norm=0.00774, loss=0.0237, lr=3.64e-6]Training steps:  83%|████████▎ | 166/200 [4:14:36<51:49, 91.47s/it, grad_norm=0.0189, loss=0.0483, lr=3.54e-6] 11/08/2025 12:14:55 - INFO - trainer - Memory after epoch 166: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  84%|████████▎ | 167/200 [4:16:07<50:16, 91.40s/it, grad_norm=0.0189, loss=0.0483, lr=3.54e-6]Training steps:  84%|████████▎ | 167/200 [4:16:07<50:16, 91.40s/it, grad_norm=0.0121, loss=0.0164, lr=3.43e-6]11/08/2025 12:16:27 - INFO - trainer - Memory after epoch 167: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  84%|████████▍ | 168/200 [4:17:38<48:39, 91.23s/it, grad_norm=0.0121, loss=0.0164, lr=3.43e-6]Training steps:  84%|████████▍ | 168/200 [4:17:38<48:39, 91.23s/it, grad_norm=0.02, loss=0.0271, lr=3.33e-6]  11/08/2025 12:17:57 - INFO - trainer - Memory after epoch 168: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  84%|████████▍ | 169/200 [4:19:09<47:10, 91.29s/it, grad_norm=0.02, loss=0.0271, lr=3.33e-6]Training steps:  84%|████████▍ | 169/200 [4:19:09<47:10, 91.29s/it, grad_norm=0.0165, loss=0.0434, lr=3.23e-6]11/08/2025 12:19:29 - INFO - trainer - Memory after epoch 169: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  85%|████████▌ | 170/200 [4:20:42<45:50, 91.67s/it, grad_norm=0.0165, loss=0.0434, lr=3.23e-6]Training steps:  85%|████████▌ | 170/200 [4:20:42<45:50, 91.67s/it, grad_norm=0.0137, loss=0.0152, lr=3.13e-6]11/08/2025 12:21:01 - INFO - trainer - Memory after epoch 170: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  86%|████████▌ | 171/200 [4:22:15<44:29, 92.05s/it, grad_norm=0.0137, loss=0.0152, lr=3.13e-6]Training steps:  86%|████████▌ | 171/200 [4:22:15<44:29, 92.05s/it, grad_norm=0.0551, loss=0.058, lr=3.03e-6] 11/08/2025 12:22:34 - INFO - trainer - Memory after epoch 171: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  86%|████████▌ | 172/200 [4:23:47<42:57, 92.05s/it, grad_norm=0.0551, loss=0.058, lr=3.03e-6]Training steps:  86%|████████▌ | 172/200 [4:23:47<42:57, 92.05s/it, grad_norm=0.00798, loss=0.0251, lr=2.93e-6]11/08/2025 12:24:06 - INFO - trainer - Memory after epoch 172: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  86%|████████▋ | 173/200 [4:25:18<41:17, 91.77s/it, grad_norm=0.00798, loss=0.0251, lr=2.93e-6]Training steps:  86%|████████▋ | 173/200 [4:25:18<41:17, 91.77s/it, grad_norm=0.0112, loss=0.0178, lr=2.83e-6] 11/08/2025 12:25:38 - INFO - trainer - Memory after epoch 173: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  87%|████████▋ | 174/200 [4:26:50<39:47, 91.85s/it, grad_norm=0.0112, loss=0.0178, lr=2.83e-6]Training steps:  87%|████████▋ | 174/200 [4:26:50<39:47, 91.85s/it, grad_norm=0.0258, loss=0.0252, lr=2.73e-6]11/08/2025 12:27:10 - INFO - trainer - Memory after epoch 174: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  88%|████████▊ | 175/200 [4:28:23<38:25, 92.22s/it, grad_norm=0.0258, loss=0.0252, lr=2.73e-6]Training steps:  88%|████████▊ | 175/200 [4:28:23<38:25, 92.22s/it, grad_norm=0.00918, loss=0.0203, lr=2.63e-6]11/08/2025 12:28:43 - INFO - trainer - Memory after epoch 175: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  88%|████████▊ | 176/200 [4:29:54<36:44, 91.87s/it, grad_norm=0.00918, loss=0.0203, lr=2.63e-6]Training steps:  88%|████████▊ | 176/200 [4:29:54<36:44, 91.87s/it, grad_norm=0.0115, loss=0.039, lr=2.53e-6]  11/08/2025 12:30:14 - INFO - trainer - Memory after epoch 176: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  88%|████████▊ | 177/200 [4:31:25<35:06, 91.61s/it, grad_norm=0.0115, loss=0.039, lr=2.53e-6]Training steps:  88%|████████▊ | 177/200 [4:31:25<35:06, 91.61s/it, grad_norm=0.0087, loss=0.031, lr=2.42e-6]11/08/2025 12:31:45 - INFO - trainer - Memory after epoch 177: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  89%|████████▉ | 178/200 [4:32:56<33:30, 91.39s/it, grad_norm=0.0087, loss=0.031, lr=2.42e-6]Training steps:  89%|████████▉ | 178/200 [4:32:56<33:30, 91.39s/it, grad_norm=0.00513, loss=0.0159, lr=2.32e-6]11/08/2025 12:33:16 - INFO - trainer - Memory after epoch 178: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  90%|████████▉ | 179/200 [4:34:27<31:58, 91.37s/it, grad_norm=0.00513, loss=0.0159, lr=2.32e-6]Training steps:  90%|████████▉ | 179/200 [4:34:27<31:58, 91.37s/it, grad_norm=0.00712, loss=0.0184, lr=2.22e-6]11/08/2025 12:34:47 - INFO - trainer - Memory after epoch 179: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  90%|█████████ | 180/200 [4:35:59<30:26, 91.34s/it, grad_norm=0.00712, loss=0.0184, lr=2.22e-6]Training steps:  90%|█████████ | 180/200 [4:35:59<30:26, 91.34s/it, grad_norm=0.0227, loss=0.0738, lr=2.12e-6] 11/08/2025 12:36:18 - INFO - trainer - Memory after epoch 180: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  90%|█████████ | 181/200 [4:37:31<29:04, 91.81s/it, grad_norm=0.0227, loss=0.0738, lr=2.12e-6]Training steps:  90%|█████████ | 181/200 [4:37:31<29:04, 91.81s/it, grad_norm=0.00955, loss=0.0154, lr=2.02e-6]11/08/2025 12:37:51 - INFO - trainer - Memory after epoch 181: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  91%|█████████ | 182/200 [4:39:04<27:38, 92.13s/it, grad_norm=0.00955, loss=0.0154, lr=2.02e-6]Training steps:  91%|█████████ | 182/200 [4:39:04<27:38, 92.13s/it, grad_norm=0.0117, loss=0.036, lr=1.92e-6]  11/08/2025 12:39:24 - INFO - trainer - Memory after epoch 182: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  92%|█████████▏| 183/200 [4:40:35<26:00, 91.77s/it, grad_norm=0.0117, loss=0.036, lr=1.92e-6]Training steps:  92%|█████████▏| 183/200 [4:40:35<26:00, 91.77s/it, grad_norm=0.0074, loss=0.0159, lr=1.82e-6]11/08/2025 12:40:55 - INFO - trainer - Memory after epoch 183: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  92%|█████████▏| 184/200 [4:42:08<24:34, 92.17s/it, grad_norm=0.0074, loss=0.0159, lr=1.82e-6]Training steps:  92%|█████████▏| 184/200 [4:42:08<24:34, 92.17s/it, grad_norm=0.00773, loss=0.0246, lr=1.72e-6]11/08/2025 12:42:28 - INFO - trainer - Memory after epoch 184: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  92%|█████████▎| 185/200 [4:43:39<22:57, 91.81s/it, grad_norm=0.00773, loss=0.0246, lr=1.72e-6]Training steps:  92%|█████████▎| 185/200 [4:43:39<22:57, 91.81s/it, grad_norm=0.0127, loss=0.0664, lr=1.62e-6] 11/08/2025 12:43:59 - INFO - trainer - Memory after epoch 185: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  93%|█████████▎| 186/200 [4:45:11<21:22, 91.62s/it, grad_norm=0.0127, loss=0.0664, lr=1.62e-6]Training steps:  93%|█████████▎| 186/200 [4:45:11<21:22, 91.62s/it, grad_norm=0.00957, loss=0.0358, lr=1.52e-6]11/08/2025 12:45:30 - INFO - trainer - Memory after epoch 186: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  94%|█████████▎| 187/200 [4:46:42<19:49, 91.53s/it, grad_norm=0.00957, loss=0.0358, lr=1.52e-6]Training steps:  94%|█████████▎| 187/200 [4:46:42<19:49, 91.53s/it, grad_norm=0.00805, loss=0.0387, lr=1.41e-6]11/08/2025 12:47:01 - INFO - trainer - Memory after epoch 187: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  94%|█████████▍| 188/200 [4:48:13<18:16, 91.33s/it, grad_norm=0.00805, loss=0.0387, lr=1.41e-6]Training steps:  94%|█████████▍| 188/200 [4:48:13<18:16, 91.33s/it, grad_norm=0.0125, loss=0.0148, lr=1.31e-6] 11/08/2025 12:48:32 - INFO - trainer - Memory after epoch 188: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  94%|█████████▍| 189/200 [4:49:44<16:43, 91.27s/it, grad_norm=0.0125, loss=0.0148, lr=1.31e-6]Training steps:  94%|█████████▍| 189/200 [4:49:44<16:43, 91.27s/it, grad_norm=0.00739, loss=0.0266, lr=1.21e-6]11/08/2025 12:50:03 - INFO - trainer - Memory after epoch 189: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  95%|█████████▌| 190/200 [4:51:15<15:11, 91.18s/it, grad_norm=0.00739, loss=0.0266, lr=1.21e-6]Training steps:  95%|█████████▌| 190/200 [4:51:15<15:11, 91.18s/it, grad_norm=0, loss=0, lr=1.11e-6]           11/08/2025 12:51:34 - INFO - trainer - Memory after epoch 190: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  96%|█████████▌| 191/200 [4:52:47<13:44, 91.62s/it, grad_norm=0, loss=0, lr=1.11e-6]Training steps:  96%|█████████▌| 191/200 [4:52:47<13:44, 91.62s/it, grad_norm=0.0131, loss=0.0505, lr=1.01e-6]11/08/2025 12:53:07 - INFO - trainer - Memory after epoch 191: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  96%|█████████▌| 192/200 [4:54:21<12:16, 92.08s/it, grad_norm=0.0131, loss=0.0505, lr=1.01e-6]Training steps:  96%|█████████▌| 192/200 [4:54:21<12:16, 92.08s/it, grad_norm=0.00708, loss=0.0251, lr=9.09e-7]11/08/2025 12:54:40 - INFO - trainer - Memory after epoch 192: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  96%|█████████▋| 193/200 [4:55:51<10:41, 91.69s/it, grad_norm=0.00708, loss=0.0251, lr=9.09e-7]Training steps:  96%|█████████▋| 193/200 [4:55:51<10:41, 91.69s/it, grad_norm=0.0116, loss=0.029, lr=8.08e-7]  11/08/2025 12:56:11 - INFO - trainer - Memory after epoch 193: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  97%|█████████▋| 194/200 [4:57:22<09:08, 91.40s/it, grad_norm=0.0116, loss=0.029, lr=8.08e-7]Training steps:  97%|█████████▋| 194/200 [4:57:22<09:08, 91.40s/it, grad_norm=0.00613, loss=0.0153, lr=7.07e-7]11/08/2025 12:57:42 - INFO - trainer - Memory after epoch 194: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  98%|█████████▊| 195/200 [4:58:55<07:39, 91.86s/it, grad_norm=0.00613, loss=0.0153, lr=7.07e-7]Training steps:  98%|█████████▊| 195/200 [4:58:55<07:39, 91.86s/it, grad_norm=0.00738, loss=0.0345, lr=6.06e-7]11/08/2025 12:59:15 - INFO - trainer - Memory after epoch 195: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  98%|█████████▊| 196/200 [5:00:26<06:06, 91.52s/it, grad_norm=0.00738, loss=0.0345, lr=6.06e-7]Training steps:  98%|█████████▊| 196/200 [5:00:26<06:06, 91.52s/it, grad_norm=0.00813, loss=0.0394, lr=5.05e-7]11/08/2025 13:00:45 - INFO - trainer - Memory after epoch 196: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  98%|█████████▊| 197/200 [5:01:57<04:33, 91.32s/it, grad_norm=0.00813, loss=0.0394, lr=5.05e-7]Training steps:  98%|█████████▊| 197/200 [5:01:57<04:33, 91.32s/it, grad_norm=0.00717, loss=0.0146, lr=4.04e-7]11/08/2025 13:02:16 - INFO - trainer - Memory after epoch 197: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps:  99%|█████████▉| 198/200 [5:03:27<03:02, 91.17s/it, grad_norm=0.00717, loss=0.0146, lr=4.04e-7]Training steps:  99%|█████████▉| 198/200 [5:03:27<03:02, 91.17s/it, grad_norm=0.0572, loss=0.165, lr=3.03e-7]  11/08/2025 13:03:47 - INFO - trainer - Memory after epoch 198: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps: 100%|█████████▉| 199/200 [5:04:59<01:31, 91.16s/it, grad_norm=0.0572, loss=0.165, lr=3.03e-7]Training steps: 100%|█████████▉| 199/200 [5:04:59<01:31, 91.16s/it, grad_norm=0.00519, loss=0.0196, lr=2.02e-7]11/08/2025 13:05:18 - INFO - trainer - Memory after epoch 199: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+Training steps: 100%|██████████| 200/200 [5:06:30<00:00, 91.23s/it, grad_norm=0.00519, loss=0.0196, lr=2.02e-7]11/08/2025 13:06:50 - INFO - trainer - Checkpointing at step 200
+11/08/2025 13:06:50 - INFO - trainer - Saving state to /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200
+11/08/2025 13:06:50 - INFO - accelerate.accelerator - Saving current state to /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200
+11/08/2025 13:06:50 - INFO - accelerate.accelerator - Saving DeepSpeed Model and Optimizer
+11/08/2025 13:07:42 - INFO - accelerate.accelerator - DeepSpeed Model and Optimizer saved to output dir /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200/pytorch_model
+11/08/2025 13:07:42 - INFO - accelerate.checkpointing - Sampler state for dataloader 0 saved in /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200/sampler.bin
+11/08/2025 13:07:42 - INFO - accelerate.checkpointing - Random states saved in /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200/random_states_0.pkl
+Training steps: 100%|██████████| 200/200 [5:07:23<00:00, 91.23s/it, grad_norm=0.0342, loss=0.0218, lr=1.01e-7] 11/08/2025 13:07:42 - INFO - trainer - Memory after epoch 200: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 24.352,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+11/08/2025 13:07:42 - INFO - trainer - Checkpointing at step 200
+11/08/2025 13:07:42 - INFO - trainer - Saving state to /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200
+11/08/2025 13:07:42 - INFO - accelerate.accelerator - Saving current state to /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200
+11/08/2025 13:07:42 - INFO - accelerate.accelerator - Saving DeepSpeed Model and Optimizer
+11/08/2025 13:08:43 - INFO - accelerate.accelerator - DeepSpeed Model and Optimizer saved to output dir /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200/pytorch_model
+11/08/2025 13:08:43 - INFO - accelerate.checkpointing - Sampler state for dataloader 0 saved in /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200/sampler.bin
+11/08/2025 13:08:43 - INFO - accelerate.checkpointing - Random states saved in /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/checkpoint-200/random_states_0.pkl
+11/08/2025 13:08:45 - INFO - trainer - Memory after training end: {
+    "memory_allocated": 1.435,
+    "memory_reserved": 1.475,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 24.352
+}
+wandb: uploading output.log; uploading wandb-summary.json; uploading config.yaml
+wandb: 
+wandb: Run history:
+wandb: grad_norm ▃▃▃▃▃▄▂▂█▂▂▁▁▂▁▂▃▁▄▅▁▁▁▁▂▁▁▁▁▃▁▁▁▁▂▁▁▁▁▁
+wandb:      loss ▂▃▃▂▂▃▂▃█▂▂▂▂▂▂▂▂▂▄▂▂▂▂▃▂▃▂▂▂▂▁▂▂▂▂▃▂▂▂▁
+wandb:        lr ██▇▇▇▇▆▆▆▆▆▆▆▅▅▅▅▅▅▄▄▄▄▄▃▃▃▃▃▃▂▂▂▂▂▂▂▁▁▁
+wandb: 
+wandb: Run summary:
+wandb: grad_norm 0.03423
+wandb:      loss 0.02184
+wandb:        lr 0.0
+wandb: 
+wandb: 🚀 View run earnest-pyramid-4 at: https://wandb.ai/esunn0412-emory-university/finetrainer-cogvideo/runs/hpyju1ii
+wandb: ⭐️ View project at: https://wandb.ai/esunn0412-emory-university/finetrainer-cogvideo
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20251108_080013-hpyju1ii/logs
+Training steps: 100%|██████████| 200/200 [5:08:28<00:00, 92.54s/it, grad_norm=0.0342, loss=0.0218, lr=1.01e-7]
