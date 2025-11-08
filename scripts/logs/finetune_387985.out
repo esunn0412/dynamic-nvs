@@ -1,0 +1,45 @@
+======================================
+Job started: Sat Nov  8 07:03:43 UTC 2025
+Job ID: 387985
+Host: hyper-01-prod-comp-di-0241-29.ec2.internal
+Partition: a100-8-gm320-c96-m1152
+Nodes: 1
+======================================
+======================================
+Python: /scratch/tkim462/conda_envs/cognvs/bin/python
+Python version: Python 3.11.14
+CUDA_VISIBLE_DEVICES: 0,2,3,4,5,6,7
+Number of GPUs: 8
+======================================
+======================================
+Starting training...
+======================================
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+rank: 128
+learning_rate: 2e-05
+rank: 128
+learning_rate: 2e-05
+rank: 128
+learning_rate: 2e-05
+rank: 128
+learning_rate: 2e-05
+rank: 128
+learning_rate: 2e-05
+rank: 128
+learning_rate: 2e-05
+rank: 128
+learning_rate: 2e-05
+[2025-11-08 07:15:36,130] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-08 07:15:42,315] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-08 07:15:42,873] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-08 07:15:42,902] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-08 07:15:43,106] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-08 07:15:43,948] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-08 07:15:44,444] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.

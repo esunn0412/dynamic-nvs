@@ -1,0 +1,186 @@
+W1108 07:46:54.734000 1790312 site-packages/torch/distributed/run.py:792] 
+W1108 07:46:54.734000 1790312 site-packages/torch/distributed/run.py:792] *****************************************
+W1108 07:46:54.734000 1790312 site-packages/torch/distributed/run.py:792] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W1108 07:46:54.734000 1790312 site-packages/torch/distributed/run.py:792] *****************************************
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:54<00:54, 54.49s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:54<00:54, 54.57s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:54<00:54, 54.64s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:54<00:54, 54.57s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:54<00:54, 54.57s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:54<00:54, 54.70s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 63.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 63.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 64.05s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 63.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 64.01s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 64.01s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 62.60s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 62.60s/it]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 62.61s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 62.64s/it]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 62.64s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:05<00:00, 62.65s/it]
+
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:03<00:12,  3.11s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:03<00:12,  3.11s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:03<00:12,  3.11s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:03<00:12,  3.11s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:03<00:12,  3.11s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:03<00:12,  3.11s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:03<00:04,  1.61s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:03<00:04,  1.61s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:03<00:04,  1.62s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:03<00:04,  1.62s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:03<00:04,  1.62s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:03<00:04,  1.62s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:04<00:02,  1.05s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:04<00:02,  1.06s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:04<00:02,  1.06s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:04<00:02,  1.06s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:04<00:02,  1.06s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:04<00:02,  1.06s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:04<00:00,  1.28it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:04<00:00,  1.28it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:04<00:00,  1.27it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:04<00:00,  1.27it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:04<00:00,  1.27it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:04<00:00,  1.27it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.73it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.72it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.72it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.71it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.71it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.71it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.07it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.07it/s]
+
+Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.07it/s]
+Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.07it/s]
+Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.06it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:04<00:00,  1.06it/s]
+
+11/08/2025 07:50:31 - INFO - trainer - Initialized Trainer
+11/08/2025 07:50:31 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 0
+Local process index: 0
+Device: cuda:0
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/08/2025 07:50:31 - INFO - trainer - Initializing models
+11/08/2025 07:50:31 - INFO - trainer - Initializing dataset and dataloader
+11/08/2025 07:50:31 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 2
+Local process index: 2
+Device: cuda:2
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/08/2025 07:50:31 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 4
+Local process index: 4
+Device: cuda:4
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/08/2025 07:50:31 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 5
+Local process index: 5
+Device: cuda:5
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/08/2025 07:50:31 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 1
+Local process index: 1
+Device: cuda:1
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/08/2025 07:50:31 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 3
+Local process index: 3
+Device: cuda:3
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/08/2025 07:52:16 - INFO - trainer - Initializing trainable parameters
+11/08/2025 07:52:17 - INFO - trainer - Initializing optimizer and lr scheduler
+11/08/2025 07:52:25 - WARNING - accelerate.accelerator - Gradient accumulation steps mismatch: GradientAccumulationPlugin has 1, DeepSpeed config has 4. Using DeepSpeed's value.
+11/08/2025 08:00:12 - INFO - trainer - Initializing trackers
+wandb: Currently logged in as: esunn0412 (esunn0412-emory-university) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: setting up run hpyju1ii
+wandb: Tracking run with wandb version 0.22.3
+wandb: Run data is saved locally in /scratch/tkim462/vision/wandb/run-20251108_080013-hpyju1ii
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run earnest-pyramid-4
+wandb: ⭐️ View project at https://wandb.ai/esunn0412-emory-university/finetrainer-cogvideo
+wandb: 🚀 View run at https://wandb.ai/esunn0412-emory-university/finetrainer-cogvideo/runs/hpyju1ii
+11/08/2025 08:00:19 - INFO - trainer - Starting training
+11/08/2025 08:00:19 - INFO - trainer - Memory before training start: {
+    "memory_allocated": 1.435,
+    "memory_reserved": 10.883,
+    "max_memory_allocated": 1.435,
+    "max_memory_reserved": 10.883
+}
+11/08/2025 08:00:19 - INFO - trainer - Training configuration: {
+    "trainable parameters": 5570479680,
+    "total samples": 1,
+    "train epochs": 200,
+    "train steps": 200,
+    "batches per device": 1,
+    "total batches observed per epoch": 1,
+    "train batch size total count": 6,
+    "gradient accumulation steps": 1
+}
+Training steps:   0%|          | 0/200 [00:00<?, ?it/s]Training steps:   0%|          | 1/200 [02:48<9:18:17, 168.33s/it]Training steps:   0%|          | 1/200 [02:48<9:18:17, 168.33s/it, grad_norm=0.0715, loss=0.0895, lr=0]11/08/2025 08:03:07 - INFO - trainer - Memory after epoch 1: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 19.676,
+    "max_memory_allocated": 18.134,
+    "max_memory_reserved": 19.676
+}
+Training steps:   1%|          | 2/200 [04:34<7:14:06, 131.55s/it, grad_norm=0.0715, loss=0.0895, lr=0]Training steps:   1%|          | 2/200 [04:34<7:14:06, 131.55s/it, grad_norm=0.0493, loss=0.0531, lr=2e-5]11/08/2025 08:04:53 - INFO - trainer - Memory after epoch 2: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.121,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.121
+}
+Training steps:   2%|▏         | 3/200 [06:05<6:11:43, 113.22s/it, grad_norm=0.0493, loss=0.0531, lr=2e-5]Training steps:   2%|▏         | 3/200 [06:05<6:11:43, 113.22s/it, grad_norm=0.0638, loss=0.111, lr=2e-5] 11/08/2025 08:06:25 - INFO - trainer - Memory after epoch 3: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.141,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.141
+}
+Training steps:   2%|▏         | 4/200 [07:36<5:41:26, 104.52s/it, grad_norm=0.0638, loss=0.111, lr=2e-5]Training steps:   2%|▏         | 4/200 [07:36<5:41:26, 104.52s/it, grad_norm=0.105, loss=0.0924, lr=1.99e-5]11/08/2025 08:07:56 - INFO - trainer - Memory after epoch 4: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.336,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.336
+}
+Training steps:   2%|▎         | 5/200 [09:07<5:23:59, 99.69s/it, grad_norm=0.105, loss=0.0924, lr=1.99e-5] Training steps:   2%|▎         | 5/200 [09:07<5:23:59, 99.69s/it, grad_norm=0.0523, loss=0.0745, lr=1.98e-5]11/08/2025 08:09:27 - INFO - trainer - Memory after epoch 5: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   3%|▎         | 6/200 [10:39<5:13:01, 96.81s/it, grad_norm=0.0523, loss=0.0745, lr=1.98e-5]Training steps:   3%|▎         | 6/200 [10:39<5:13:01, 96.81s/it, grad_norm=0.0653, loss=0.0683, lr=1.97e-5]11/08/2025 08:10:58 - INFO - trainer - Memory after epoch 6: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   4%|▎         | 7/200 [12:11<5:06:16, 95.22s/it, grad_norm=0.0653, loss=0.0683, lr=1.97e-5]Training steps:   4%|▎         | 7/200 [12:11<5:06:16, 95.22s/it, grad_norm=0.0492, loss=0.06, lr=1.96e-5]  11/08/2025 08:12:30 - INFO - trainer - Memory after epoch 7: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   4%|▍         | 8/200 [13:42<5:00:44, 93.98s/it, grad_norm=0.0492, loss=0.06, lr=1.96e-5]Training steps:   4%|▍         | 8/200 [13:42<5:00:44, 93.98s/it, grad_norm=0.0568, loss=0.0624, lr=1.95e-5]11/08/2025 08:14:01 - INFO - trainer - Memory after epoch 8: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   4%|▍         | 9/200 [15:13<4:56:29, 93.14s/it, grad_norm=0.0568, loss=0.0624, lr=1.95e-5]Training steps:   4%|▍         | 9/200 [15:13<4:56:29, 93.14s/it, grad_norm=0.0526, loss=0.0519, lr=1.94e-5]11/08/2025 08:15:33 - INFO - trainer - Memory after epoch 9: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   5%|▌         | 10/200 [16:46<4:54:17, 92.93s/it, grad_norm=0.0526, loss=0.0519, lr=1.94e-5]Training steps:   5%|▌         | 10/200 [16:46<4:54:17, 92.93s/it, grad_norm=0.0874, loss=0.0543, lr=1.93e-5]11/08/2025 08:17:05 - INFO - trainer - Memory after epoch 10: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   6%|▌         | 11/200 [18:17<4:50:55, 92.36s/it, grad_norm=0.0874, loss=0.0543, lr=1.93e-5]Training steps:   6%|▌         | 11/200 [18:17<4:50:55, 92.36s/it, grad_norm=0.0718, loss=0.0549, lr=1.92e-5]11/08/2025 08:18:36 - INFO - trainer - Memory after epoch 11: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
+Training steps:   6%|▌         | 12/200 [19:48<4:47:58, 91.91s/it, grad_norm=0.0718, loss=0.0549, lr=1.92e-5]Training steps:   6%|▌         | 12/200 [19:48<4:47:58, 91.91s/it, grad_norm=0.0439, loss=0.0348, lr=1.91e-5]11/08/2025 08:20:07 - INFO - trainer - Memory after epoch 12: {
+    "memory_allocated": 10.707,
+    "memory_reserved": 23.434,
+    "max_memory_allocated": 19.8,
+    "max_memory_reserved": 23.434
+}
