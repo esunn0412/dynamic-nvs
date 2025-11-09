@@ -1,0 +1,88 @@
+W1109 01:20:59.914000 2369229 site-packages/torch/distributed/run.py:792] 
+W1109 01:20:59.914000 2369229 site-packages/torch/distributed/run.py:792] *****************************************
+W1109 01:20:59.914000 2369229 site-packages/torch/distributed/run.py:792] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W1109 01:20:59.914000 2369229 site-packages/torch/distributed/run.py:792] *****************************************
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:38<00:38, 38.14s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:39<00:39, 39.19s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:38<00:38, 38.50s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:38<00:38, 38.25s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:38<00:38, 38.55s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:38<00:38, 38.41s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:15<00:00, 37.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:15<00:00, 37.55s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.04s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 36.94s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.13s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.00s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.21s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.07s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.29s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 36.92s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:14<00:00, 37.10s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:01<00:07,  1.86s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:02<00:08,  2.02s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:01<00:07,  1.85s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:01<00:07,  1.89s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:01<00:07,  1.90s/it]Loading checkpoint shards:  20%|██        | 1/5 [00:01<00:07,  1.87s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:02<00:02,  1.07it/s]Loading checkpoint shards:  40%|████      | 2/5 [00:02<00:03,  1.00s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:02<00:02,  1.05it/s]Loading checkpoint shards:  40%|████      | 2/5 [00:02<00:02,  1.06it/s]Loading checkpoint shards:  40%|████      | 2/5 [00:02<00:02,  1.07it/s]Loading checkpoint shards:  40%|████      | 2/5 [00:02<00:02,  1.06it/s]Loading checkpoint shards:  60%|██████    | 3/5 [00:02<00:01,  1.58it/s]Loading checkpoint shards:  60%|██████    | 3/5 [00:02<00:01,  1.59it/s]Loading checkpoint shards:  60%|██████    | 3/5 [00:02<00:01,  1.57it/s]Loading checkpoint shards:  60%|██████    | 3/5 [00:02<00:01,  1.55it/s]Loading checkpoint shards:  60%|██████    | 3/5 [00:02<00:01,  1.47it/s]Loading checkpoint shards:  60%|██████    | 3/5 [00:02<00:01,  1.55it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:02<00:00,  1.96it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:02<00:00,  2.02it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:02<00:00,  2.03it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:02<00:00,  2.02it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:02<00:00,  2.02it/s]Loading checkpoint shards:  80%|████████  | 4/5 [00:02<00:00,  2.03it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  2.73it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  2.72it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  1.76it/s]
+Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  2.63it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  1.73it/s]
+Loading checkpoint shards: 100%|██████████| 5/5 [00:03<00:00,  2.56it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  2.67it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  1.74it/s]
+Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  2.63it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  1.71it/s]
+Loading checkpoint shards: 100%|██████████| 5/5 [00:02<00:00,  1.74it/s]
+Loading checkpoint shards: 100%|██████████| 5/5 [00:03<00:00,  1.62it/s]
+11/09/2025 01:23:21 - INFO - trainer - Initialized Trainer
+11/09/2025 01:23:21 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 0
+Local process index: 0
+Device: cuda:0
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/09/2025 01:23:21 - INFO - trainer - Initializing models
+11/09/2025 01:23:21 - INFO - trainer - Initializing dataset and dataloader
+11/09/2025 01:23:22 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 3
+Local process index: 3
+Device: cuda:3
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/09/2025 01:23:22 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 2
+Local process index: 2
+Device: cuda:2
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/09/2025 01:23:22 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 5
+Local process index: 5
+Device: cuda:5
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/09/2025 01:23:22 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 1
+Local process index: 1
+Device: cuda:1
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/09/2025 01:23:22 - INFO - trainer - Accelerator state: 
+Distributed environment: DistributedType.DEEPSPEED  Backend: nccl
+Num processes: 6
+Process index: 4
+Local process index: 4
+Device: cuda:4
+
+Mixed precision type: bf16
+ds_config: {'bf16': {'enabled': True}, 'optimizer': {'type': 'AdamW', 'params': {'lr': 'auto', 'weight_decay': 'auto', 'torch_adam': True, 'adam_w_mode': True}}, 'scheduler': {'type': 'WarmupDecayLR', 'params': {'warmup_min_lr': 'auto', 'warmup_max_lr': 'auto', 'warmup_num_steps': 'auto', 'total_num_steps': 'auto'}}, 'zero_optimization': {'stage': 3, 'offload_optimizer': {'device': 'cpu', 'pin_memory': True}, 'offload_param': {'device': 'cpu', 'pin_memory': True}, 'overlap_comm': True, 'contiguous_gradients': True, 'reduce_bucket_size': 500000000.0, 'stage3_prefetch_bucket_size': 500000000.0, 'stage3_param_persistence_threshold': 1000000.0, 'sub_group_size': 1000000000.0, 'stage3_max_live_parameters': 1000000000.0, 'stage3_max_reuse_distance': 1000000000.0, 'stage3_gather_16bit_weights_on_model_save': False}, 'gradient_accumulation_steps': 4, 'train_micro_batch_size_per_gpu': 1, 'train_batch_size': 'auto', 'gradient_clipping': 'auto', 'steps_per_print': inf, 'wall_clock_breakdown': False, 'fp16': {'enabled': False}}
+
+11/09/2025 01:24:23 - INFO - trainer - Initializing trainable parameters
+11/09/2025 01:24:23 - INFO - trainer - Initializing optimizer and lr scheduler
+11/09/2025 01:24:28 - WARNING - accelerate.accelerator - Gradient accumulation steps mismatch: GradientAccumulationPlugin has 1, DeepSpeed config has 4. Using DeepSpeed's value.

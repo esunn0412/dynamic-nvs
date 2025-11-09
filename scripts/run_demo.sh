@@ -23,8 +23,8 @@ echo "SLURM_JOB_ID: ${SLURM_JOB_ID:-N/A}"
 
 # Run demo
 python /scratch/tkim462/vision/demo.py \
-    --model_path "checkpoints/CogVideoX-5b-I2V" \
-    --cognvs_ckpt_path "checkpoints/cognvs_ckpt_finetuned_davis_bear/my_checkpoint-200_transformer" \
+    --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V" \
+    --cognvs_ckpt_path "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear/my_checkpoint-200_transformer" \
     --data_path "/scratch/tkim462/vision/demo_data/davis_bear" \
     --mp4_name "example_eval_render.mp4"
 

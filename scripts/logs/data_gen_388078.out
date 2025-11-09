@@ -1,0 +1,12 @@
+Job started: Sun Nov  9 00:57:00 UTC 2025
+Host: hyper-01-prod-comp-di-0241-144.ec2.internal
+SLURM_JOB_ID: 388078
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render1.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render2.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render3.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render4.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render5.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render6.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render7.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/train_render8.mp4
+Job finished: Sun Nov  9 01:05:26 UTC 2025

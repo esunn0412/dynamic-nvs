@@ -25,7 +25,7 @@ echo "SLURM_JOB_ID: ${SLURM_JOB_ID:-N/A}"
 # Any arguments after `--` when calling sbatch will be forwarded to data_gen.py via "$@"
 python /scratch/tkim462/vision/data_gen.py \
     --device "cuda:0" \
-    --data_path "demo_data/davis_bear" \
+    --data_path "/scratch/tkim462/vision/demo_data/rodtang" \
     --mode "train" \
     --intrinsics_file "cam_info/megasam_intrinsics.npy" \
     --extrinsics_file "cam_info/megasam_c2ws.npy"

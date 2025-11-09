@@ -1,9 +1,9 @@
 #!/bin/bash
 #SBATCH --job-name=cognvs_finetune
-#SBATCH --output=/scratch/tkim462/vision/scripts/logs/finetune_%j.out
-#SBATCH --error=/scratch/tkim462/vision/scripts/logs/finetune_%j.err
+#SBATCH --output=/scratch/tkim462/vision/scripts/logs/ft_rodtang_%j.out
+#SBATCH --error=/scratch/tkim462/vision/scripts/logs/ft_rodtang_%j.err
 #SBATCH --time=48:00:00
-#SBATCH --partition=a100-8-gm320-c96-m1152
+#SBATCH --partition=l40s-8-gm384-c192-m1536
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --mem=300GB
@@ -38,7 +38,7 @@ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
 # Model Configuration
 MODEL_ARGS=(
-    --model_path "/scratch/tkim462/vision/models/base"
+    --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V"
     --transformer_id "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_inpaint"
     --model_name "cogvideox-v2v"
     --model_type "v2v"
@@ -47,14 +47,14 @@ MODEL_ARGS=(
 
 # Output Configuration (per-seq)
 OUTPUT_ARGS=(
-    --output_dir "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_davis_bear"
+    --output_dir "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang"
     --report_to "wandb"
 )
 
 # Data Configuration (per-seq)
 DATA_ARGS=(
     --json_file ""
-    --base_dir_input "/scratch/tkim462/vision/demo_data/davis_bear"
+    --base_dir_input "/scratch/tkim462/vision/demo_data/rodtang"
     --base_dir_target ""
     --train_resolution "49x480x720"
 )

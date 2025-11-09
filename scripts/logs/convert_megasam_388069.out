@@ -1,0 +1,5 @@
+Job started: Sat Nov  8 22:34:25 UTC 2025
+Host: hyper-01-prod-comp-di-0241-197.ec2.internal
+SLURM_JOB_ID: 388069
+Saved depth, intrinsics, and cam_c2w to /scratch/tkim462/vision/demo_data/rodtang/cam_info
+Job finished: Sat Nov  8 22:34:26 UTC 2025
