@@ -50,7 +50,7 @@ logger = get_logger(LOG_NAME, LOG_LEVEL)
 
 
 class my_cognvs_dataset(Dataset):
-    def __init__(self, base_dir_input, base_dir_target, mode, frames, height, width, device, trainer, random_sub_sample=True, transform=None):
+    def __init__(self, base_dir_input, base_dir_target, mode, frames, height, width, device, trainer, random_sub_sample=True, frame_offset=0, transform=None):
 
         self.base_dir_input = base_dir_input
         self.base_dir_target = base_dir_target
@@ -67,6 +67,7 @@ class my_cognvs_dataset(Dataset):
         self.W = width
 
         self.random_sub_sample = random_sub_sample
+        self.frame_offset = frame_offset
 
         # Define resizing transform
         self.default_transform = transforms.Compose([
@@ -104,10 +105,22 @@ class my_cognvs_dataset(Dataset):
                 # Return all available indices + repeat the last index until length == num_samples
                 sampled_indices = list(range(num_frames)) + [num_frames - 1] * (self.num_samples - num_frames)
             else:
-                start_idx = random.randint(0, num_frames - self.num_samples)
-                sampled_indices = list(range(start_idx, start_idx + self.num_samples))
+                # Apply frame offset, then randomly sample within remaining range
+                adjusted_start = self.frame_offset
+                adjusted_end = num_frames
+                if adjusted_start + self.num_samples > adjusted_end:
+                    # Not enough frames after offset, start from offset and pad
+                    sampled_indices = list(range(adjusted_start, adjusted_end)) + [adjusted_end - 1] * (self.num_samples - (adjusted_end - adjusted_start))
+                else:
+                    # Random sampling within the offset range
+                    start_idx = random.randint(adjusted_start, adjusted_end - self.num_samples)
+                    sampled_indices = list(range(start_idx, start_idx + self.num_samples))
         else:
-            sampled_indices = list(range(num_frames))
+            # Fixed sampling from offset
+            if self.frame_offset + self.num_samples > num_frames:
+                sampled_indices = list(range(self.frame_offset, num_frames)) + [num_frames - 1] * (self.num_samples - (num_frames - self.frame_offset))
+            else:
+                sampled_indices = list(range(self.frame_offset, self.frame_offset + self.num_samples))
 
         input_images = []
         target_images = []

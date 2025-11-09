@@ -32,3 +32,15 @@ rank: 128
 learning_rate: 2e-05
 rank: 128
 learning_rate: 2e-05
+Parameter Offload - Persistent parameters statistics: param_count = 685, numel = 4113984
+[2025-11-09 01:29:23,243] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-09 01:29:23,243] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-09 01:29:23,243] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-09 01:29:23,243] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-09 01:29:23,243] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+[2025-11-09 01:29:24,284] [WARNING] [lr_schedules.py:690:get_lr] Attempting to get learning rate from scheduler before it has started
+Warning: The cache directory for DeepSpeed Triton autotune, /users/tkim462/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+======================================
+Job finished: Sun Nov  9 06:11:08 UTC 2025
+Exit code: 0
+======================================

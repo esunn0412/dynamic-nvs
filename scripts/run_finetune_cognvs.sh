@@ -57,6 +57,7 @@ DATA_ARGS=(
     --base_dir_input "/scratch/tkim462/vision/demo_data/rodtang"
     --base_dir_target ""
     --train_resolution "49x480x720"
+    --frame_offset 43
 )
 
 # Training Configuration

@@ -100,6 +100,7 @@ def preprocess_video_with_resize(
     max_num_frames: int,
     height: int,
     width: int,
+    frame_offset: int = 0,
 ) -> torch.Tensor:
     """
     Loads and resizes a single video.
@@ -113,6 +114,7 @@ def preprocess_video_with_resize(
         max_num_frames: Maximum number of frames to keep.
         height: Target height for resizing.
         width: Target width for resizing.
+        frame_offset: Starting frame index (default 0). Use 49 for frames 49-97, etc.
 
     Returns:
         A torch.Tensor with shape [F, C, H, W] where:
@@ -125,17 +127,24 @@ def preprocess_video_with_resize(
         video_path = Path(video_path)
     video_reader = decord.VideoReader(uri=video_path.as_posix(), width=width, height=height)
     video_num_frames = len(video_reader)
-    if video_num_frames < max_num_frames:
-        # Get all frames first
-        frames = video_reader.get_batch(list(range(video_num_frames)))
+    
+    # Adjust for frame offset
+    start_frame = min(frame_offset, video_num_frames - 1)
+    end_frame = min(start_frame + max_num_frames, video_num_frames)
+    available_frames = end_frame - start_frame
+    
+    if available_frames < max_num_frames:
+        # Get available frames starting from offset
+        frames = video_reader.get_batch(list(range(start_frame, end_frame)))
         # Repeat the last frame until we reach max_num_frames
         last_frame = frames[-1:]
-        num_repeats = max_num_frames - video_num_frames
+        num_repeats = max_num_frames - available_frames
         repeated_frames = last_frame.repeat(num_repeats, 1, 1, 1)
         frames = torch.cat([frames, repeated_frames], dim=0)
         return frames.float().permute(0, 3, 1, 2).contiguous()
     else:
-        indices = list(range(0, video_num_frames, video_num_frames // max_num_frames))
+        # Select frames from start_frame to end_frame
+        indices = list(range(start_frame, end_frame))
         frames = video_reader.get_batch(indices)
         frames = frames[:max_num_frames].float()
         frames = frames.permute(0, 3, 1, 2).contiguous()

@@ -1,0 +1,30 @@
+Job started: Sun Nov  9 18:32:00 UTC 2025
+Host: hyper-01-prod-comp-di-0241-187.ec2.internal
+SLURM_JOB_ID: 388286
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 1.2M Nov  8 21:59 demo_data/rodtang/gt_rgb.mp4
+total 29M
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 8.2K Nov  8 22:34 megasam_c2ws.npy
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec  47M Nov  8 22:34 megasam_depth.npy
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec  164 Nov  8 22:34 megasam_intrinsics.npy
+total 89K
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 17 Nov  8 01:27 traj1.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 40 Nov  9 18:21 traj10.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 53 Nov  8 01:27 traj2.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 66 Nov  8 01:27 traj3.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 97 Nov  8 01:27 traj4.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 48 Nov  9 18:21 traj5.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 58 Nov  9 18:21 traj6.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 43 Nov  9 18:21 traj7.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 56 Nov  9 18:21 traj8.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 33 Nov  9 18:21 traj9.txt
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render1.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render2.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render3.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render4.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render5.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render6.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render7.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render8.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render9.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render10.mp4
+Job finished: Sun Nov  9 18:38:10 UTC 2025

@@ -1,0 +1,5 @@
+Job started: Sun Nov  9 07:32:14 UTC 2025
+Host: hyper-01-prod-comp-di-0241-29.ec2.internal
+SLURM_JOB_ID: 388136
+Processing /scratch/tkim462/vision/demo_data/rodtang/eval_render1.mp4...
+Job finished: Sun Nov  9 07:53:38 UTC 2025

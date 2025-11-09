@@ -3,7 +3,7 @@
 #SBATCH --output=/scratch/tkim462/vision/scripts/logs/demo_%j.out
 #SBATCH --error=/scratch/tkim462/vision/scripts/logs/demo_%j.err
 #SBATCH --time=02:00:00
-#SBATCH --partition=a100-8-gm320-c96-m1152
+#SBATCH --partition=l40s-8-gm384-c192-m1536
 #SBATCH --nodes=1
 #SBATCH --gpus=1
 #SBATCH --ntasks=1
@@ -26,18 +26,36 @@ python /scratch/tkim462/vision/demo.py \
     --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V" \
     --cognvs_ckpt_path "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang/my_checkpoint-200_transformer" \
     --data_path "/scratch/tkim462/vision/demo_data/rodtang" \
-    --mp4_name "eval_render2.mp4"
+    --mp4_name "eval_render5.mp4"
 
 python /scratch/tkim462/vision/demo.py \
     --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V" \
     --cognvs_ckpt_path "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang/my_checkpoint-200_transformer" \
     --data_path "/scratch/tkim462/vision/demo_data/rodtang" \
-    --mp4_name "eval_render3.mp4"
+    --mp4_name "eval_render6.mp4"
 
 python /scratch/tkim462/vision/demo.py \
     --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V" \
     --cognvs_ckpt_path "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang/my_checkpoint-200_transformer" \
     --data_path "/scratch/tkim462/vision/demo_data/rodtang" \
-    --mp4_name "eval_render4.mp4"
+    --mp4_name "eval_render7.mp4"
+
+python /scratch/tkim462/vision/demo.py \
+    --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V" \
+    --cognvs_ckpt_path "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang/my_checkpoint-200_transformer" \
+    --data_path "/scratch/tkim462/vision/demo_data/rodtang" \
+    --mp4_name "eval_render8.mp4"
+
+python /scratch/tkim462/vision/demo.py \
+    --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V" \
+    --cognvs_ckpt_path "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang/my_checkpoint-200_transformer" \
+    --data_path "/scratch/tkim462/vision/demo_data/rodtang" \
+    --mp4_name "eval_render9.mp4"
+
+python /scratch/tkim462/vision/demo.py \
+    --model_path "/scratch/tkim462/vision/models/CogVideoX-5b-I2V" \
+    --cognvs_ckpt_path "/scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang/my_checkpoint-200_transformer" \
+    --data_path "/scratch/tkim462/vision/demo_data/rodtang" \
+    --mp4_name "eval_render10.mp4"
 
 echo "Job finished: $(date)"

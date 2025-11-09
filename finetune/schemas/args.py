@@ -30,6 +30,7 @@ class Args(BaseModel):
     base_dir_input: str
     base_dir_target: str
     train_resolution: str
+    frame_offset: int = 0  # Starting frame index (e.g., 49 for frames 49-97)
 
     ########## Training #########
     resume_from_checkpoint: Path | None = None
@@ -222,6 +223,7 @@ class Args(BaseModel):
         parser.add_argument("--json_file", type=str, required=True)
         parser.add_argument("--base_dir_input", type=str, required=True)
         parser.add_argument("--base_dir_target", type=str, required=True)
+        parser.add_argument("--frame_offset", type=int, default=0)
 
         # Model configuration
         parser.add_argument("--mixed_precision", type=str, default="no")

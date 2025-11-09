@@ -1,0 +1,18 @@
+Job started: Sun Nov  9 07:19:07 UTC 2025
+Host: hyper-01-prod-comp-di-0241-167.ec2.internal
+SLURM_JOB_ID: 388133
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 1.2M Nov  8 21:59 demo_data/rodtang/gt_rgb.mp4
+total 29M
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 8.2K Nov  8 22:34 megasam_c2ws.npy
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec  47M Nov  8 22:34 megasam_depth.npy
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec  164 Nov  8 22:34 megasam_intrinsics.npy
+total 38K
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 17 Nov  8 01:27 traj1.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 53 Nov  8 01:27 traj2.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 66 Nov  8 01:27 traj3.txt
+-rw-r--r--. 1 tkim462 HyPER-LG-PROD-Sec 97 Nov  8 01:27 traj4.txt
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render1.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render2.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render3.mp4
+Rendered video saved to /scratch/tkim462/vision/demo_data/rodtang/eval_render4.mp4
+Job finished: Sun Nov  9 07:21:46 UTC 2025

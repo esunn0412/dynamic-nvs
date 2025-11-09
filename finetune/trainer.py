@@ -174,6 +174,7 @@ class Trainer:
                 height=self.state.train_height,
                 width=self.state.train_width,
                 trainer=self,
+                frame_offset=self.args.frame_offset,
             )
 
             self.eval_dataset = my_cognvs_dataset(
@@ -185,6 +186,7 @@ class Trainer:
                 height=self.state.train_height,
                 width=self.state.train_width,
                 trainer=self,
+                frame_offset=self.args.frame_offset,
             )
 
         else:
