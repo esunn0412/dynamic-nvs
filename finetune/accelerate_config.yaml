@@ -9,13 +9,13 @@ compute_environment: LOCAL_MACHINE
 # num_processes: 1
 
 # Using 7 available A100 GPUs (40GB each = 280GB total)
-gpu_ids: "2,3,4,5,6,7"
-num_processes: 6
+gpu_ids: "3,4,5,6,7"
+num_processes: 5
 
 debug: false
-# DeepSpeed ZeRO-3 with CPU offload for maximum memory efficiency
+# DeepSpeed ZeRO-2 with CPU offload for maximum memory efficiency
 deepspeed_config:
-  deepspeed_config_file: /scratch/tkim462/vision/finetune/configs/zero3_offload.yaml
+  deepspeed_config_file: /scratch/tkim462/vision/finetune/configs/zero2_offload.yaml
   zero3_init_flag: true
 distributed_type: DEEPSPEED  # Using DeepSpeed ZeRO-3 with CPU offload
 downcast_bf16: 'no'

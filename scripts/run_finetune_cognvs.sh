@@ -7,7 +7,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --mem=300GB
-#SBATCH --gpus=6
+#SBATCH --gpus=5
 
 
 set -euo pipefail

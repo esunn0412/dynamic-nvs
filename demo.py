@@ -60,7 +60,7 @@ def main(args):
     pipe.vae.enable_tiling()
 
     mp4_paths =  sorted(glob.glob(os.path.join(args.data_path, args.mp4_name)))  # you can change to process multiple mp4s, e.g., "*.mp4"
-    output_paths = os.path.join(args.data_path, "outputs")
+    output_paths = os.path.join(args.data_path, "outputs2")
     
     if not os.path.exists(output_paths):
         os.makedirs(output_paths)
@@ -70,11 +70,11 @@ def main(args):
 
         print(f"Processing {mp4_path}...")
         
-        # --- read first 49 frames and get original H, W ---
+        # --- read frames starting from frame_offset and get original H, W ---
         cap = cv2.VideoCapture(mp4_path)
         ret, frame0 = cap.read()
         ori_h, ori_w = frame0.shape[:2]
-        cap.set(cv2.CAP_PROP_POS_FRAMES, 0)
+        cap.set(cv2.CAP_PROP_POS_FRAMES, args.frame_offset)
 
         frames = []
         for i in range(49):
@@ -128,6 +128,7 @@ if __name__ == "__main__":
     parser.add_argument("--cognvs_ckpt_path", type=str, required=True, help="Path to the model directory of CogNVS")
     parser.add_argument("--data_path", type=str, required=True, help="Path to the input data directory")
     parser.add_argument("--mp4_name", type=str, required=True, help="Path to the input data directory")
+    parser.add_argument("--frame_offset", type=int, default=0, help="Starting frame index (e.g., 49 for frames 49-97)")
     
     args = parser.parse_args()
 

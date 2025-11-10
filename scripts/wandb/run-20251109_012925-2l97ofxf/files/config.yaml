@@ -1,0 +1,299 @@
+_wandb:
+    value:
+        cli_version: 0.22.3
+        e:
+            uevioxg6smr52tq54470exety9f1gvgh:
+                args:
+                    - --model_path
+                    - /scratch/tkim462/vision/models/CogVideoX-5b-I2V
+                    - --transformer_id
+                    - /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_inpaint
+                    - --model_name
+                    - cogvideox-v2v
+                    - --model_type
+                    - v2v
+                    - --training_type
+                    - sft
+                    - --output_dir
+                    - /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang
+                    - --report_to
+                    - wandb
+                    - --json_file
+                    - ""
+                    - --base_dir_input
+                    - /scratch/tkim462/vision/demo_data/rodtang
+                    - --base_dir_target
+                    - ""
+                    - --train_resolution
+                    - 49x480x720
+                    - --train_epochs
+                    - "200"
+                    - --seed
+                    - "42"
+                    - --batch_size
+                    - "1"
+                    - --gradient_accumulation_steps
+                    - "1"
+                    - --mixed_precision
+                    - bf16
+                    - --num_workers
+                    - "2"
+                    - --pin_memory
+                    - "True"
+                    - --nccl_timeout
+                    - "1800"
+                    - --checkpointing_steps
+                    - "200"
+                    - --checkpointing_limit
+                    - "5"
+                    - --do_validation
+                    - "False"
+                    - --validation_dir
+                    - ""
+                    - --validation_steps
+                    - "200"
+                    - --validation_prompts
+                    - prompts.txt
+                    - --validation_images
+                    - images.txt
+                    - --gen_fps
+                    - "16"
+                codePath: finetune/train.py
+                cpu_count: 96
+                cpu_count_logical: 192
+                cudaVersion: "12.2"
+                disk:
+                    /:
+                        total: "429417017344"
+                        used: "115667079168"
+                email: taeeunk1208@gmail.com
+                executable: /scratch/tkim462/conda_envs/cognvs/bin/python3.11
+                git:
+                    commit: 2bbac2d4b1028554e0bcd8b529ac9a2ca388035e
+                    remote: https://github.com/esunn0412/dynamic-nvs.git
+                gpu: NVIDIA L40S
+                gpu_count: 8
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-e9857d53-dd28-d2a8-3ae9-7022d99a6311
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-0d36fd79-f8b5-6ba6-75c5-9b70ef283820
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-86ba3b49-9a3c-0c32-82e0-b09493a6d80d
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-df5854df-9401-b023-7908-439cc7efd38b
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-ed178104-4548-8386-8c92-9a33e94e8e76
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-3bc64b32-1755-4dd7-e5cb-153b4c178e29
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-2a06764e-7405-2abb-a836-5ed499f7851e
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "48305799168"
+                      name: NVIDIA L40S
+                      uuid: GPU-4b2ace7d-efe4-22a2-4353-84412e4bf182
+                host: hyper-01-prod-comp-di-0241-225.ec2.internal
+                memory:
+                    total: "1602047926272"
+                os: Linux-6.1.94-99.176.amzn2023.x86_64-x86_64-with-glibc2.34
+                program: /scratch/tkim462/vision/finetune/train.py
+                python: CPython 3.11.14
+                root: /scratch/tkim462/vision/scripts
+                slurm:
+                    cluster_name: cirrostratus
+                    conf: /opt/slurm/etc/slurm.conf
+                    cpus_on_node: "1"
+                    gpus: "6"
+                    gpus_on_node: "6"
+                    gtids: "0"
+                    job_account: ai-gpu
+                    job_cpus_per_node: "1"
+                    job_end_time: "1762824048"
+                    job_gid: "88"
+                    job_gpus: 2,3,4,5,6,7
+                    job_id: "388081"
+                    job_name: cognvs_finetune
+                    job_nodelist: l40s-8-gm384-c192-m1536-st-g6e-48xlarge-1
+                    job_num_nodes: "1"
+                    job_partition: l40s-8-gm384-c192-m1536
+                    job_qos: normal
+                    job_start_time: "1762651248"
+                    job_uid: "59599"
+                    job_user: tkim462
+                    jobid: "388081"
+                    localid: "0"
+                    mem_per_node: "307200"
+                    nnodes: "1"
+                    nodeid: "0"
+                    nodelist: l40s-8-gm384-c192-m1536-st-g6e-48xlarge-1
+                    nprocs: "1"
+                    ntasks: "1"
+                    ntasks_per_node: "1"
+                    prio_process: "0"
+                    procid: "0"
+                    submit_dir: /scratch/tkim462/vision/scripts
+                    submit_host: hyper-01-prod-ondemand-241-251.ec2.internal
+                    task_pid: "2369219"
+                    tasks_per_node: "1"
+                    topology_addr: l40s-8-gm384-c192-m1536-st-g6e-48xlarge-1
+                    topology_addr_pattern: node
+                startedAt: "2025-11-09T01:29:25.032848Z"
+                writerId: uevioxg6smr52tq54470exety9f1gvgh
+        m: []
+        python_version: 3.11.14
+        t:
+            "1":
+                - 1
+                - 11
+                - 41
+                - 49
+                - 51
+                - 71
+                - 83
+                - 98
+                - 105
+            "2":
+                - 1
+                - 11
+                - 41
+                - 49
+                - 51
+                - 71
+                - 83
+                - 98
+                - 105
+            "3":
+                - 2
+                - 61
+            "4": 3.11.14
+            "5": 0.22.3
+            "6": 4.57.1
+            "12": 0.22.3
+            "13": linux-x86_64
+base_dir_input:
+    value: /scratch/tkim462/vision/demo_data/rodtang
+base_dir_target:
+    value: ""
+batch_size:
+    value: 1
+beta1:
+    value: 0.9
+beta2:
+    value: 0.95
+beta3:
+    value: 0.98
+checkpointing_limit:
+    value: 5
+checkpointing_steps:
+    value: 200
+do_validation:
+    value: false
+enable_slicing:
+    value: true
+enable_tiling:
+    value: true
+epsilon:
+    value: 1e-08
+gen_fps:
+    value: 16
+gradient_accumulation_steps:
+    value: 1
+gradient_checkpointing:
+    value: true
+json_file:
+    value: ""
+learning_rate:
+    value: 2e-05
+lora_alpha:
+    value: 64
+lr_num_cycles:
+    value: 1
+lr_power:
+    value: 1
+lr_scheduler:
+    value: constant_with_warmup
+lr_warmup_steps:
+    value: 100
+max_grad_norm:
+    value: 1
+mixed_precision:
+    value: bf16
+model_name:
+    value: cogvideox-v2v
+model_path:
+    value: /scratch/tkim462/vision/models/CogVideoX-5b-I2V
+model_type:
+    value: v2v
+nccl_timeout:
+    value: 1800
+num_workers:
+    value: 2
+optimizer:
+    value: adamw
+output_dir:
+    value: /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_finetuned_rodtang
+pin_memory:
+    value: true
+rank:
+    value: 128
+report_to:
+    value: wandb
+resume_from_checkpoint:
+    value: null
+seed:
+    value: 42
+target_modules:
+    value:
+        - to_q
+        - to_k
+        - to_v
+        - to_out.0
+tracker_name:
+    value: finetrainer-cogvideo
+train_epochs:
+    value: 200
+train_resolution:
+    value:
+        - 49
+        - 480
+        - 720
+train_steps:
+    value: 200
+training_type:
+    value: sft
+transformer_id:
+    value: /scratch/tkim462/vision/models/checkpoints/cognvs_ckpt_inpaint
+validation_dir:
+    value: .
+validation_images:
+    value: images.txt
+validation_prompts:
+    value: prompts.txt
+validation_steps:
+    value: 200
+validation_videos:
+    value: null
+weight_decay:
+    value: 0.0001
